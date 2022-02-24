@@ -1,0 +1,746 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of several observable speeches of Mrs. Luce Perrot the late wife of Mr. Robert Perrot of London, minister. Spoken by her chiefly in the time of her sickness, and a little before her death; and taken immediately from her own mouth, though unknown to her. And now published for the comfort and benefit of her near relations, and some other of her friends.</title>
+            <author>Perrot, Luce, d. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54455</idno>
+            <idno type="STC">Wing P1643</idno>
+            <idno type="STC">ESTC R221443</idno>
+            <idno type="EEBO-CITATION">99832749</idno>
+            <idno type="PROQUEST">99832749</idno>
+            <idno type="VID">37223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of several observable speeches of Mrs. Luce Perrot the late wife of Mr. Robert Perrot of London, minister. Spoken by her chiefly in the time of her sickness, and a little before her death; and taken immediately from her own mouth, though unknown to her. And now published for the comfort and benefit of her near relations, and some other of her friends.</title>
+                  <author>Perrot, Luce, d. 1678.</author>
+               </titleStmt>
+               <extent>[6], 2, 9-36 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. P[errot].,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing.</note>
+                  <note>With a preliminary contents leaf.</note>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Perrot, Luce, d. 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37223:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT Of Several Obſervable SPEECHES OF <hi>Mrs. Luce Perrot</hi> THE Late Wife of Mr. <hi>ROBERT PERROT</hi> of <hi>LONDON,</hi> Miniſter.</p>
+            <p>Spoken by her chiefly in the time of her ſickneſs, and a little before her Death; and taken immediately from her own mouth, though unknown to her.</p>
+            <p>
+               <hi>And now Publiſhed for the Comfort and Benefit of her near Relations, and ſome other of her Friends.</hi>
+            </p>
+            <q>Thy lips, O my Spouſe, drop as the honey-comb: honey and milk are under thy tongue, <hi>&amp;c.</hi> 
+               <bibl>
+                  <hi>Cant. 4.11.</hi>
+               </bibl>
+            </q>
+            <q>She openeth her mouth with wiſdom: and in her tongue is the law of kindneſs, <bibl>
+                  <hi>Prov. 30.26.</hi>
+               </bibl>
+            </q>
+            <q>—<hi>And by it, he being dead, yet ſpeaketh,</hi> 
+               <bibl>Heb. 11.4.</bibl>
+            </q>
+            <q>Beata lingua quae velut favus diſtillat, &amp; velur ubera lacte diſtendi<g ref="char:EOLhyphen"/>tur, quae mel diſtillar, &amp; lac fluit. <bibl>
+                  <hi>Bernard. ſuper Cantica.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. P.</hi> 1679.</p>
+            <pb facs="tcp:37223:2"/>
+            <pb facs="tcp:37223:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37223:3"/>
+            <pb facs="tcp:37223:3"/>
+            <head>The PREFACE.</head>
+            <p>THESE Sayings here publiſhed, were the Say<g ref="char:EOLhyphen"/>ings of a dear and precious Saint now with God, not premeditated, but extemporary, ut<g ref="char:EOLhyphen"/>tered by her chiefly in the times of her ſick<g ref="char:EOLhyphen"/>neſs and weakneſs, and a little before her death; and taken immediately word for word (as near as could be) as they dropt from her own mouth; but being promiſcuouſly ſpoken, they are thus ordered and reduced to ſeveral heads, for the better fitting of them to be ſubſervient for the bene<g ref="char:EOLhyphen"/>fit and comfort of thoſe who ſhall peruſe them.</p>
+            <p>It was ſo far from being any way deſigned or deſired by her, to have them made publick, that ſhe did not ſo much as know of their being taken; for had ſhe, ſuch was her modeſty and humility, that it might (I ſuppoſe) have hinder'd the ſpeak<g ref="char:EOLhyphen"/>ing of them. What they be, they are mainly and chiefly de<g ref="char:EOLhyphen"/>ſign'd for the comfort and benefit of her near and dear Re<g ref="char:EOLhyphen"/>lations, and ſome other friends which were of her acquaint<g ref="char:EOLhyphen"/>ance; but if others ſhall occaſionally reap any comfort or be<g ref="char:EOLhyphen"/>nefit by them, let them bleſs God, and thankfully own his Pro<g ref="char:EOLhyphen"/>vidence therein. It is probable, that what is here done, will not eſcape the cenſure of ſome, nor the ſlight and contempt of others; and indeed, what almoſt in theſe times does not undergo that fate? But however, the good aſſurance how ac<g ref="char:EOLhyphen"/>ceptable what is here done, will be to thoſe for whom it is chiefly intended; as alſo how profitable it may, through the bleſſing of God, prove to them, hath encouraged to what is done. It is not here deſign'd to give an account of the Life of the deceaſed, but only of ſome of thoſe ſpeeches which dropt from her lips chiefly in her ſickneſs, and near her death. But yet this I ſhall ſay, That by what is here ſet forth,
+<pb facs="tcp:37223:4"/>ſuch as peruſe the ſame, may take a meaſure of themſelves, and ſee as in a Mirrour, what they are; there being therein drawn forth to the life, the true characters and lineaments of a ſound and real Chriſtian indeed. And beſides, theſe ſpeeches are, and may be ſeveral other ways, very inſtructive and uſe<g ref="char:EOLhyphen"/>ful, as to let us ſee what a powerful influence a holy gracious life hath to a comfortable and happy death; and truly meer ſhews and ſemblances of Piety, will no more comfort then, than a painted ſun give light, or a painted fire warmth, now. As alſo here we are taught how good it is, and how comfort<g ref="char:EOLhyphen"/>able it will prove afterward, to ſet out for Heaven betimes; and to begin to ſeek after God, and chuſe him for our por<g ref="char:EOLhyphen"/>tion while young, and to be then taken off from the vain delights here below. This (as <hi>Abigail</hi> ſaid to <hi>David</hi> in a<g ref="char:EOLhyphen"/>nother caſe) ſhall be no grief of heart hereafter, but ſuch (as is ſaid of the virtuous woman, <hi>Prov.</hi> 31.25.) <hi>ſhall rejoice in time to come,</hi> when God ſhall <hi>remember the kindneſs of their youth.</hi> It is obſerv'd, Chriſt lov'd his youngeſt Diſciple beſt, <hi>&amp;c.</hi> Here alſo you are taught what it is that moſt troubles, and burdens a gracious ſoul, and that the deareſt of Gods Saints are ſometimes expoſed to Satans fierceſt onſets; and what a choice Cordial in times of trial, the loving-kindneſs of God is, <hi>better than wine,</hi> yea <hi>better than life;</hi> yea, and what it is that does and will comfort and ſupport at ſuch times, and upon the approaches of death; and how far many times the Saints are carried above the fears even of that King of terrors, <hi>&amp;c.</hi> Theſe, and ſeveral other ways, what is here publiſhed (through the bleſſing of God) may be uſeful and inſtructive in the peruſal thereof, if ſuch as peruſe the ſame, be not wanting to themſelves: Which that it may be, as it was the deſign, ſo it is the deſire, and ſhall be the prayer of the Publiſher thereof.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:37223:4"/>
+            <head>The CONTENTS of the ſeveral Speeches following: As concerning,</head>
+            <list>
+               <item>
+                  <hi>1.</hi> Gods beginning with her betimes, &amp;c.</item>
+               <item>
+                  <hi>2.</hi> Her ſenſe of Sin, &amp;c.</item>
+               <item>
+                  <hi>3.</hi> Satans Temptations, &amp;c.</item>
+               <item>
+                  <hi>4.</hi> Her quiet Submiſſion under Gods hand, &amp;c.</item>
+               <item>
+                  <hi>5.</hi> Her zeal for the glory of God, &amp;c.</item>
+               <item>
+                  <hi>6.</hi> Her thankfulneſs, &amp;c.</item>
+               <item>
+                  <hi>7.</hi> Her weanedneſs from the World, &amp;c.</item>
+               <item>
+                  <hi>8.</hi> Her Humility, Charity, &amp;c.</item>
+               <item>
+                  <hi>9.</hi> Her firm affiance in God, &amp;c,</item>
+               <item>
+                  <hi>10.</hi> Her whole reliance on Jeſus Chriſt alone for Salvation, &amp;c.</item>
+               <item>
+                  <hi>11.</hi> Her earneſt deſires of the good of the Souls of her Chil<g ref="char:EOLhyphen"/>dren, &amp;c.</item>
+               <item>
+                  <hi>12.</hi> Her care to prepare for the Sabbath, and great love to Gods Miniſters, &amp;c.</item>
+               <item>
+                  <hi>13.</hi> Some further evidences for Heaven, &amp;c.</item>
+               <item>
+                  <hi>14.</hi> What it was which comforted her in all her afflictions, &amp;c. <hi>Viz.</hi>
+                  <pb facs="tcp:37223:5"/>
+                  <list>
+                     <item>
+                        <hi>1</hi> Her intereſt in God.</item>
+                     <item>
+                        <hi>2</hi> The favour of God.</item>
+                     <item>
+                        <hi>3</hi> The word and promiſes of God.</item>
+                     <item>
+                        <hi>4</hi> Prayer, Meditation, and former experiences.</item>
+                     <item>
+                        <hi>5</hi> Heaven, and the future happineſs and glory, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>15.</hi> Her earneſt deſires to be diſſolved, &amp;c.</item>
+               <item>
+                  <hi>16.</hi> The Ends and Reaſons thereof, &amp;c.</item>
+               <item>
+                  <hi>17.</hi> Her being above the fears of death, &amp;c.</item>
+               <item>
+                  <hi>18.</hi> Some few of her breathings as in reference to her ſelf, &amp;c.</item>
+               <item>
+                  <hi>19.</hi> Some of her Speeches to, and Prayers for her Husband, as in reference to himſelf, and Children, formerly.</item>
+               <item>
+                  <hi>20.</hi> Some of her Speeches and Prayers very lately, and a little before her Death.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="speeches">
+            <pb n="1" facs="tcp:37223:5"/>
+            <head>An Account of ſeveral Obſervable Speeches of Mrs. <hi>Luce Perrot,</hi> the late Wife of Mr. <hi>Robert Perrot</hi> of <hi>London,</hi> Mi<g ref="char:EOLhyphen"/>niſter, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">Her Speeches,</head>
+            <div n="1" type="speech">
+               <head>1. <hi>As concerning Gods beginning with her betimes, which ſhe thankfully acknowledged, and much rejoyced in.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg> Would not for ten thouſand worlds, but have begun to ſeek God betimes; the Lord put me upon it; he then took me off from other delights, and made me to delight in his Word, <hi>&amp;c.</hi>
+               </p>
+               <p>He began with me betimes, and carried me on ſtep by ſtep. I could then ſee nothing in the World to delight in. I thought then Holy-days (as they called them) a weariſomneſs unto me. I would ſometimes ſit, and ſee others play, but took no delight therein, for which they would laugh at me, and tell me I ſtudied Divinity, <hi>&amp;c.</hi> But my delight was then, (this was when ſhe was about thirteen Years of age), to ſearch the Scriptures, and to get by my ſelf, and pray: O that pleaſed me; and very much was I troubled when hindered, <hi>&amp;c.</hi>
+               </p>
+               <p>God wrought in me betimes an hatred of what was evil, and a love of what was good; and I then dearly loved thoſe that feared the Lord, and ſpake of what was good, but I could not delight in vain Company. I was fearful to offend God, <hi>&amp;c.</hi>
+               </p>
+               <p>It is good to ſet out and begin with God betimes. I choſe God when I was young, and then my endeavour was to do what he commanded me; and I was grieved when I ſlipped; my greateſt ſorrow was for ſin, and nothing troubles me more now, than that I ran no ſwifter then in the ways of God.</p>
+               <p>
+                  <pb n="2" facs="tcp:37223:6"/>If my work was now to do, and my evidences to ſeek, what a ſad condition was I in! And if I had not ſpent more time for Heaven, when I had time, and health, and ſtrength, it would even ſink me now.</p>
+               <p>Thus this bleſſed Saint <hi>Remembred her Creatour in the days of her Youth,</hi> Ec<g ref="char:EOLhyphen"/>cleſ. 12.1. he had her golden age, the prime of her Years, the chief and choice of her days; and who indeed ſhould have theſe, but God, who is the beſt and chiefeſt of all? And there was in her, whilſt a Child, found ſome <hi>good thing towards the Lord God of Iſrael,</hi> 1 Kings 14.13. and then even while young, and tender, ſhe began to ſeek after the God of her godly Parents, 2 Chron. 34.3. whoſe care it was to train her up betimes <hi>in the way ſhe ſhould go,</hi> and ſhe <hi>bare the yoke in her youth,</hi> and ſo did not <hi>bear the reproach of her youth,</hi> Lam. 3.27. Jer. 3.19. in neglecting then to do God ſervice, and to mind her everlaſting concerns, when was the chief time for it, but had the comfort of her youth. And this is Gods due, the chief and choice of our days. <hi>The firſt of the firſt fruits,</hi> were to be <hi>offered to God:</hi> Exod. 23.19. <hi>repeated</hi> 34, 26. and youth is the time, which of all times God does chiefly require, and moſt delight in, <hi>his Soul deſires the firſt ripe fruit.</hi> Micah. 7.1. and early fruits, are very acceptable, <hi>&amp;c.</hi> God prizes the ſervices of young ones, and it exceedingly pleaſes him to ſee plants grown up even in their youth, <hi>Pſal.</hi> 144.12. and he eſpecially beſpeaks young ones to give him the heart; <hi>my Son give me thine heart,</hi> &amp;c. <hi>Proverbs</hi> 23.26. So my Daughter, you young ones, <hi>&amp;c.</hi> and this is given as one Reaſon, why that title <hi>my Son,</hi> is ſo often uſed in the Book of <hi>Proverbs,</hi> becauſe God does there eſpecially ſpeak to young ones, <hi>&amp;c.</hi> and we while young, experiencing bounty and kindneſs from God, there's all the reaſon he ſhould have duty and ſervice from us. Can we while we are young live without him? And why therefore, ſhould we not then live unto him? and as he is <hi>the guide of our youth,</hi> ſo make him the God of our youth; and truly our whole time is ſo ſhort, all our days ſo few, but as an <hi>hands breadth,</hi> Pſal. 39.5. that God may well have all, and a poor pittance too for him, who intends an eter<g ref="char:EOLhyphen"/>nity of felicity for us O how many have repented they began no ſooner, but who ever repented for beginning ſo ſoon? And is it not ſafeſt to begin betimes? is not youth the ſeaſonning age? And does not the veſſel retain longeſt the ſavour of what it is firſt ſeaſoned with? When Children grow crooked at firſt, while young, they are hardly ever ſet ſtraight again afterwards. Few inſtances of old ones converted, <hi>&amp;c.</hi> Beſides, old age (ſays one) is the time to ſpend grace, Youth to get it: old age to reap the fruit of Holineſs, youth to ſow the ſeed of it: and are not young ones in their youth dedicated and conſecrated to God by virtue of their Baptiſm? and is it not Sacriledg to impropriate the ſervice of that, to ſin and <hi>Satan</hi> that is dedicated to God? And do not young ones die as well as old? and are there not Skulls in <hi>Golgotha</hi> of all ſizes? How many are taken away in the very prime of their days, and flower of their age? And young ones muſt appear before God at the great day of judgment as well as elder. <hi>I ſaw the dead</hi> (ſays <hi>John</hi>) <hi>both ſmall and great ſtand before God,</hi> Rev. 20.12. they were all there, <hi>&amp;c.</hi> And how well was it therefore for this precious Soul, ſhe began ſo ſoon!</p>
+            </div>
+            <div n="2" type="speech">
+               <pb n="9" facs="tcp:37223:6"/>
+               <head>2. <hi>As concerning her ſenſe of ſin, and ſorrow for her ſoul<g ref="char:EOLhyphen"/>diſtempers.</hi>
+               </head>
+               <p>THE diſtempers of my body trouble me, and I am ready to complain be<g ref="char:EOLhyphen"/>cauſe of pain, but they do not ſad me; but the diſtempers of my ſoul, they much ſad me, yea even ſink me. I am very much troubled with this body of ſin and death: and that I can do and receive no more good. When I pray for health, and the removing of the diſtempers of my Body, then methinks I pray but ſlen<g ref="char:EOLhyphen"/>derly in compariſon; but when I pray for the removing of the diſtempers of my Soul, then I pray moſt earneſtly: ſo that when I have begun, I know not how (as it were) to make an end: yea, I am ſo earneſt in deſiring God to cure the one, that I am ready to forget to beg of him the cure of the other.</p>
+               <p>Sorrow for other things makes me ſleep the more, but when it is for ſin, I cannot ſleep, but the night is as the day.</p>
+               <p>Going once to a Lecture, and hearing a Miniſter ſpeaking of the ſigns of a Child of God, and he anſwering a Chriſtians complaint, as concerning his ſins; But how, ſays he, doſt thou wear them? as a Gold chain, or ornament, or as an Iron chain, and as Fetters that manacle thee, and as that thou would'ſt fain be rid of, <hi>&amp;c?</hi> This, though very ſad, and much troubled before, ſo that ſhe was loath to have gone, What ſhould ſuch a one as I do going? I ſhall but fill up room, and do no good, <hi>&amp;c.</hi> Yet this ſo comforted her, that, ſaid ſhe, I even laughed for joy; and though going late, I ſtood all the while, yet after that I was not weary.</p>
+               <p>I am much troubled at my unbelief, impatiency. And ſhe being once in a ſpecial manner but tempted to a ſin, ſhe had ſuch an abhorrency thereof, that it eaus'd her, as ſhe told me, to ſhed a Thouſand tears; and it was as if a Sword had been run into her, <hi>&amp;c.</hi> And how often did ſhe complain, not of her ſikneſs, but ſius, <hi>&amp;c?</hi>
+               </p>
+            </div>
+            <div n="3" type="speech">
+               <head>3. As concerning Satans temptations, and his fierce onſets formerly.</head>
+               <p>WHen I was very young, I had ſometimes neglected prayer, and I dream'd one night, the Devil was pulling me to Hell, and I trembled, and quak'd, and methoughts I was even at the Pits brink; but ſome Scriptures comforted me; and afterward to prevent the ſame, I would get Scriptures by heart, when I went to bed.</p>
+               <p>Satan hath often formerly much troubled me, and I have been afraid of that roaring Lyon, that when I went to ſleep, he would devour me; but the Lord (methoughts) told me, though he was mine enemy, yet he was in Chains, and ſo I have found him; me thought I ſaw him at my Bed-ſide, and he ſnarl'd at me, <hi>&amp;c.</hi> but was as a Maſtiffchain'd, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="10" facs="tcp:37223:7"/>Being one Night, now long ſince, in extremity of pain, Satan ſet on her with all his might, and ſhe had a ſore and grievous conflict, [<hi>December</hi> 24. 1653,] I was called up, and found her in ſo great a conflict, that the very Bed did ſhake under her, and ſhe was alſo withall under ſad deſertions; for God ſeem'd alſo to hide his face from her; and oh ſays ſhe unto me, ſpeaking of Satan, he frighted me, he roared upon me, like a roaring ramping Lyon; he made my bones to ſhake, and my heart to quake and tremble within me; he told me God would not hear me, though I called on him, and cried unto him: and now ſays ſhe to me, we muſt part, and God ſeemeth to hide his face from me, and theſe are but the beginning of ſorrows, I have grievous pains in my breaſts, but in a few hours I ſhall have worſe, my ſins are ſo many, <hi>&amp;c.</hi> Behold, ſaid I to her, <hi>The Lamb of God that takes away the ſin of the world, John</hi> 1.29, But I cannot behold him, <hi>&amp;c.</hi> But bleſſed be God, though this aſſault was ſudden, and very ſore and ſharp, eſpecially being at ſuch a time, when under ſuch grievous pains, it was but ſhort; for after I had ſpoken a while to her, ſhe recovered ſome ſenſe of Gods favour, her pains were eas'd, and Satan rebuked all at once, And O what a change was there! her extremity was Gods opportunity. <hi>Pſal.</hi> 30, 5, <hi>For his anger endureth but a moment. In his favour is life. Weeping may endure for a night, but joy cometh in the morning.</hi> But here it did not indure for a whole night, but joy came before the morning: and her ſighing was turn'd into ſinging; her mourning into muſick; and her tears into triumph: and the fiercer was the ſtorm, the ſooner was a clam; and the ſorer the conflict, the ſooner was the conqueſt. He is (ſaid ſhe) my God, though he ſeem to hide his face from me, and I ſhall ſee him again; and though he kill me, I will truſt in him, <hi>&amp;c.</hi> Doſt not thou, ſaid I to her, believe, whom he loves, he loves to the end? I do, ſaid ſhe, <hi>believe, Lord help thou my unbelief.</hi> I have often beaten Satan back with the Sword of the Spirit, and he hath gone away like a Coward, though he hath brought Scripture too, <hi>&amp;c.</hi>
+               </p>
+               <p>Satan would have perſwaded me once, I loved the Word only as it came from thee, not for its own ſake; then I heard it from another, but he told me he was a noted man, and one whom I knew; then I heard it from a ſtranger, and ſome others, and then I told him he was a Lyar, <hi>&amp;c.</hi>
+               </p>
+               <p>But bleſſed be God, he was pleas'd in her laſt ſickneſs, weakneſs, and great pains, in a great meaſure wholly to chain up Satan; only towards her latter end, becauſe of her great weakneſs, ſhe being not able at length to bear it that I ſhould pray by her, he would have perſwaded her, that I thought it was be<g ref="char:EOLhyphen"/>cauſe ſhe did not love prayer, <hi>&amp;c.</hi> but that ſhe quickly was ſatisfied concerning, and got over.</p>
+               <p>She deſired me formerly to bleſs her God with her, that he was pleaſed in any meaſure to tread down Satan, her ſtrong, buſy, ſubtle enemy, under her feet, and to give her ſome more cauſe of joy; and oh that my ſins (ſaid ſhe) may not cauſe God to let him looſe again upon me, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="4" type="speech">
+               <pb n="11" facs="tcp:37223:7"/>
+               <head>4. <hi>As concerning her patient and quiet ſubmiſſion under the af<g ref="char:EOLhyphen"/>flicting hand of God.</hi>
+               </head>
+               <p>SHE had frequently ſuch humble and ſubmiſſive expreſſions, as did abundantly declare and evidence the ſame: to mention ſome of them, as that of <hi>Eli,</hi> 1 Sam. 3.4. <hi>It is the Lord, let him do what ſeemeth him good.</hi> My God in Covenant, and I would be ſatisfied with his will, and deſire earneſtly to ſubmit to it; and oh my God, my Father, not my will, but thy will be done; thy will is better than mine, the beſt will. Being call'd upon to ſleep, ſhe replied, it is better ſuffering the Will of God, than ſleeping. I would do the Will of God, but he will have me ſuffer it. <hi>I will bear the indignation of the Lord, &amp;c,</hi> I de<g ref="char:EOLhyphen"/>ſire to reſign my will to the Will of my heavenly Father; and commend my Spirit into his hand, as <hi>into the hand of a faithful Creatour.</hi>
+               </p>
+               <p>The Lord hath given me a quiet ſubmiſſion to his Will, and this bears me up, and makes me walk cheerfully under all; yea it is, as it were, meat, and drink, and all to me, <hi>&amp;c.</hi>
+               </p>
+               <p>I go up and down, and ſay, this is my Fathers Will that it ſhould be ſo, and I ſhould elſe (it may be) forget my latter end, <hi>&amp;c.</hi>
+               </p>
+               <p>The Lord hath made my chain heavy, but I would not complain; we may ſpeak to God, but not againſt God for a thouſand worlds.</p>
+               <p>My pain is ſo great ſometimes, that I cannot be merry; but I ſubmit, and am content to bear what God ſhall lay upon me; all of you wait patiently. I am willing to wait.</p>
+               <p>Though my pains be ſo great and ſo frequent, yet when they are but a little off I am cheerful, I cannot but wonder at my ſelf.</p>
+               <p>Being asked how ſhe found her ſpirit, ſhe anſwered, I bleſs God in a ſweet, willing, ſubmiſſive frame to his Will: and O! how ſweet and bleſſed a thing is it, to have a quiet ſubmiſſive frame of heart to the Will of God. I am ſure I have found by experience, that when the Lord hath given me an heart willing to ſubmit to his Will, ſickneſs of body hath been but a light burden. I would fain get patiently to my journeys end: <hi>Yet a little while he that ſhall come, will come, and will not tarry.</hi>
+               </p>
+               <p>My Life is labour and ſorrow, weariſom days and nights are appointed unto me, yet I am willing to ſubmit to Gods Will, and to ſtay longer, and to bear more, if he will have me: The Lord fit me by all, for himſelf, God ſees I have need of all this. Oh! the bitterneſs of ſin, <hi>&amp;c.</hi>
+               </p>
+               <p>If I have more work to do, he can raiſe me up again; but if my work be done, I ſubmit to the Will of my God, <hi>&amp;c</hi> The good Lord help us <hi>to caſt our burdens upon him,</hi> and then as he hath promiſed, we may hope <hi>he will ſuſtein us,</hi> Pſal. 55.22. O! in a ſubmiſſive frame of heart is much comfort, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="5" type="speech">
+               <pb n="12" facs="tcp:37223:8"/>
+               <head>5. <hi>As concerning her great zeal for the Glory of God.</hi>
+               </head>
+               <p>GOD can raiſe me up again, if it may be for his Glory; for his Glory: that ſhe repeated again and again, and that (ſaid ſhe) I look at moſt: the Glory of my good God, that I prefer before my eaſe and comfort in the World; and am willing to live, if I may honour him more: and I am afraid, leſt I ſhould diſhonour him by diſtruſting him.</p>
+               <p>If I do not go home now, but muſt ſtay ſtill, I deſire it may be to the Glory of God, to be a greater bleſſing to my Relations, and to get clearer evidences for Heaven, <hi>&amp;c.</hi>
+               </p>
+               <p>So tender was ſhe of the honour of God, that when, ſays ſhe, carnal people come to ſee me, though I am ill and weak, yet I ſtrive all I can then to bear up, and to be cheerful; for why ſhould they think the God of <hi>Iſrael</hi> is not a good God, <hi>&amp;c?</hi>
+               </p>
+               <p>I am willing to live, if I may honour my God more, and do him better ſer<g ref="char:EOLhyphen"/>vice, and receive more good, then I deſire he would ſpare me, <hi>&amp;c.</hi> but if he pleaſe not to prolong my life, I deſire to ſubmit to his Will.</p>
+               <p>I am afraid leſt I ſhould diſhonour him by thinking my time long<g ref="char:punc">▪</g> 
+                  <hi>&amp;c.</hi>
+               </p>
+               <p>Where ſhe lived before, there being an Ale-houſe at next door where God was much diſhonoured, and his Name blaſphemed, it was a very great trouble and affliction to her; and when ſhe was removed (though by reaſon of her great weakneſs and illneſs, it was not without much danger and difficulty) ſhe very much rejoyced that now ſhe ſhould not dye among ſwearers and blaſ<g ref="char:EOLhyphen"/>phemers.</p>
+               <p>O, ſays ſhe, that we could more and more depend upon our good God, and honour him more in a way of believing, who hath manifeſted himſelf a God ſo ready to help and deliver his poor Servants in the time of their ſtreights. O that I could more and more honour him; and it is the grief of my ſoul when any diſtruſtful thoughts do ariſe; and my great fear is, leſt I ſhould diſhonour God, either by diſtruſt or impatiency. When thou art abſent, I want thy company, but yet am contented; may it be for Gods Glory, and then it will be for our mutual good, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="6" type="speech">
+               <head>6. <hi>As concerning her thankfulneſs, and her being much in bleſ<g ref="char:EOLhyphen"/>ſing and praiſing God</hi>
+               </head>
+               <p>ALways when I awake, the firſt word I ſay is, Bleſſed be God: if I be at eaſe I bleſs him, and if in pain, I bleſs him it is no worſe; and I find much comfort in bleſſing of God, and truſting in him. And if God ſees it good I ſhould yet live, I would live to praiſe him, and ſpeak good of his name.</p>
+               <p>I bleſs God he helps me to bear what he lays upon me.</p>
+               <p>I bleſs God my pains are not ſo great to day as they have been, now my ſtrength is leſs.</p>
+               <p>
+                  <pb n="13" facs="tcp:37223:8"/>Doſt not thou ſee God is making my paſſage ea ſie? I bleſs God.</p>
+               <p>Bleſſed be the Lord for ever, that he will take ſuch pains with ſuch a poor worm, to fit me for Heaven: He is a God at hand, and not a far off, neither hath been as a ſtranger; he hath given me much patience, and quiet ſubmiſſi<g ref="char:EOLhyphen"/>on to his Will all along, to him be the glory thereof.</p>
+               <p>When I am in great extremity, and never a part free, yet bleſſed be God he lays no more on me, then he inables me to bear. I bleſs God I find much com<g ref="char:EOLhyphen"/>fort in my ſoul, which does much ſupport me.</p>
+               <p>Fearing ſhe might too much waſte her ſpirits with ſpeaking, I deſired her to forbear; but I cannot (ſaid ſhe) but ſpeak good of my God, whiles I can ſpeak.</p>
+               <p>When I am gone, though God ſhould bring further affliction upon thee and thy family, yet be thankful, whatever you do be thankful.</p>
+               <p>Being one night under grievous pains, ſhe quietly reſign'd her ſelf up to God, ſaying, if he pleaſe to give me reſt I will thank him; if not, I will ſubmit to him. That night prov'd a comfortable night to her, <hi>&amp;c.</hi>
+               </p>
+               <p>She would often have that expreſſion, I deſire to bleſs our good God, and to be very thankful to our good God; that word, good God. ſhe often had, and what do I do complaining, when I have enjoyed ſo much health, <hi>&amp;c.</hi> But it was not much ſhe ever injoyed; but a little is much to a truly thankful heart, who looks upon it ſelf as never deſerving the good it re<g ref="char:EOLhyphen"/>ceives, but more than deſerving the evil it ſuffers: and he alſo turning that unto good.</p>
+               <p>Thus that which is her whole work now in Heaven, was much her work here on Earth, to be bleſſing, and praiſing, and giving thanks to God, and that in every thing, even when God was ſharply afflicting her. She had her <hi>Pſalms</hi> of praiſe <hi>in the wilderneſs, her ſongs in the night.</hi> What then has ſhe now in that <hi>inheri<g ref="char:EOLhyphen"/>tance of the Saints in light?</hi> She <hi>glorified God in the fires.</hi> Iſa. 25.15. That is, in, and under great afflictions. What does ſhe now in that place of refreſhings? Thoſe Angels and heavenly Heroes about the Throne, whom ſhe is now prai<g ref="char:EOLhyphen"/>ſing, and ſinging Hallelujah's with in Heaven, ſhe much conformed to, even here on Earth, here below, and now ſhe is wholly taken up with that bleſſed delightful work above: where it is Hallelujah, and again Hallelujah, <hi>Bleſſing, honour, glory and power, be unto him that ſitteth upon the throne, and unto the Lamb for ever and ever.</hi> Amen. <hi>Rev.</hi> 5.13.</p>
+            </div>
+            <div n="7" type="speech">
+               <head>7. <hi>As concerning her weanedneſs from the World.</hi>
+               </head>
+               <p>I am leaving this pitiful poor world, this low valley, the Lord hath weaned me from the things here below; I could not ſay what it was I delighted in here, but my delight was in God, and in his ſweet Word, <hi>&amp;c.</hi>
+               </p>
+               <p>When I lived in the Countrey, the Caſement being one day open, I was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooking into the Garden, and I thought, thus with my ſelf, Many they
+<pb n="14" facs="tcp:37223:9"/>much delight in Gardens, and Flowers, <hi>&amp;c.</hi> but methinks I have no delight in theſe, nor in any outward thing; though the moſt I have had in any out<g ref="char:EOLhyphen"/>ward thing, hath been in Gardens, and to walk in the Fields.</p>
+               <p>Trouble me no more with theſe things, I am now leaving all here below, let me only mind now, how to get to that heavenly <hi>Sion</hi> above, <hi>&amp;c.</hi>
+               </p>
+               <p>I am ſeeking <hi>a City to come,</hi> an habitation with God, <hi>in whoſe preſence is ful<g ref="char:EOLhyphen"/>neſs of joy, and at whoſe right band are pleaſures for evermore, Pſal.</hi> 16.11.</p>
+               <p>Thus her way was above, and ſhe was ſtill <hi>looking not at the things which are ſeen, which are temporal, but at the things which are not ſeen, which are eternal,</hi> 2 Cor. 4.18. <hi>By faith ſhe overcame the world,</hi> and was carried after higher and bet<g ref="char:EOLhyphen"/>ter things, even thoſe things hoped for, and not ſeen, which Faith is <hi>the ſubſtance and evidence of, Heb.</hi> 11.1. Theſe things were poor, mean, low, vile things to her; better being diſcovered, even ſpiritual, heavenly and eternal, the things within the vail. She was <hi>cloth'd with the Sun,</hi> had true faith in Chriſt the Sun of righteouſneſs, with which ſhe was adorn'd; and now the Moon, the World, and all the mutable things thereof are under her feet, and ſhe treads on the worlds traſh, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="8" type="speech">
+               <head>8. <hi>As concerning her Humility, Meekneſs, Lowly-mindedneſs, Charity,</hi> &amp;c.</head>
+               <p>I Am a dry ſtick, a worm, a poor worm, a poor worthleſs worm, I have nothing; but in Chriſt I have all. And <hi>his yoke ſhe had taken upon her, Matt.</hi> 11.29, and learn'd of him the leſſon of meekneſs and lowly-mindedneſs. There is, ſays ſhe, a little Gold, and a great deal of Droſs.</p>
+               <p>Hearing how ill another was, what am I (ſhe replied) better than ſhe? I am a poor worthleſs worm.</p>
+               <p>She ſaid of her Silk-Gown, it was but the work of a worm to cloath a worm, <hi>&amp;c.</hi>
+               </p>
+               <p>As ſhe lived privately, ſhe deſired to be buried privately.</p>
+               <p>When Servants proved bad, ſhe would reflect upon her ſelf, and ſay, I have not my ſelf been to God ſo good a Servant as I ſhould and ought to have been, <hi>&amp;c.</hi>
+               </p>
+               <p>When others ſin, I am willing to reflect on my ſelf, and look back into mine own heart, and there to ſee the ſame ſin. And ſpeaking of Mercies and Bleſ<g ref="char:EOLhyphen"/>ings, ſhe would often ſay, if my ſins do not hinder.</p>
+               <p>I was willing to do good to the poor, and ſuch as ſtood in need.</p>
+               <p>I often thought, I might ſpare this, and that, and the other, that ſo I might diſtribute to ſuch, <hi>&amp;c.</hi>
+               </p>
+               <p>Indeed her expreſſions, carriages, behaviours and converſes, were ſtill ſuch as ſavoured of humility, and abundantly evidenced the ſame; and that ſhe was not only humble, but <hi>clothed with humility,</hi> as the Apoſtle <hi>Peter</hi> exhorts<g ref="char:punc">▪</g> 1 <hi>Pet.</hi> 5.5. ſhe was humility all over, it was her wear, her garment, and her great ornament too. Oh! what low thoughts had ſhe of her ſelf, and what
+<pb n="15" facs="tcp:37223:9"/>vilifying and abaſing expreſſions would ſhe have of her ſelf, when ſhe ſhone brighteſt in the eyes and aſpect of others? She was dark and obſcure as to her ſelf, truly <hi>poor in ſpirit,</hi> preferring others before her ſelf; but the more deſpi<g ref="char:EOLhyphen"/>cable ſhe was in her own eyes, the more precious no doubt ſhe was in Gods eyes; there being no grace which more recommends us to God than humility, as there is no vice more abominable than pride. God had richly adorn'd her with the <hi>ornament of a meek and quiet ſpirit, which is in the ſight of God of ſo great price,</hi> 1 Pet 3.4.</p>
+            </div>
+            <div n="9" type="speech">
+               <head>9. <hi>As concerning her firm truſt, and aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance in God, in her affliction.</hi>
+               </head>
+               <p>SHE having a very ſick night, when ſhe was in greateſt extremity, ſhe ſaid, <hi>Though he kill me, yet will I truſt in him:</hi> and this ſhe often ſaid. And the Lord hath helped me, and will help me; my God hath and will ſtrengthen me; <hi>Though I walk through the ſhadow of death, I will fear no evil,</hi> &amp;c. There is a dark Entry to go through (Death) but God ſhall carry me through it. And God will ſend his Angels to conveigh my ſoul to Heaven. And I know my Re<g ref="char:EOLhyphen"/>deemer liveth, and that I ſhall live with him there, where he now intercedes at Gods right hand for poor creatures, for me alſo, <hi>&amp;c.</hi>
+               </p>
+               <p>The Lord has, does, and will comfort me; he is an Almighty, Alſufficient and Unchangeable God, he once ſaid ſo to me when I was ready to deſpair, <hi>&amp;c. He is my rock, my fortreſs, my high tower,</hi> &amp;c.</p>
+               <p>I am like a Ship, ſometimes under the waves, but it appears again.</p>
+               <p>I would caſt all my cares and burdens upon the Lord, and I would that all that fear him would do ſo; and if not, they will bear the ſhame and reproach thereof.</p>
+               <p>My time ſeems to tarry; and when in extremity, I am ready to ſay, how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong! but the time appointed for deliverance, and times of refreſhing will come, <hi>&amp;c.</hi>
+               </p>
+               <p>Waiting on God, truly it is that which I earneſtly deſire, to be always do<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, and that with delight. Oh! that we could look up to him, and wait on him, and make him our heaven and happineſs, who is the heaven and happineſs of his people. <hi>The Lord delighteth in thoſe that fear him, in thoſe that hope in his mercy,</hi> Pſal. 147.11,</p>
+            </div>
+            <div n="10" type="speech">
+               <head>10. <hi>As concerning her whole reliance on Jeſus Chriſt alone, for Life and Salvation.</hi>
+               </head>
+               <p>I Reſt, and rely wholly, and only on Jeſus Chriſt my dear ſweet Saviour, Advocate and Mediator.</p>
+               <p>I ſee nothing in my ſelf to truſt in; but I bleſs God I have good hope through Jeſus Chriſt.</p>
+               <p>I have indeavoured in times of health, to build on that Rock, that when
+<pb n="16" facs="tcp:37223:10"/>ſtorms came I might be born up. My Redeemer hath perfected my peace in Heaven, and is now in Heaven making interceſſion for me. I am a poor worm, I have nothing, but in Chriſt I have all; juſtification by his merit, ſanctification by his ſpirit; and he hath purchaſed for me eternal Life and Salvation.</p>
+               <p>Asking her if ſhe did not find much comfort within, ſhe anſwered I do, bleſſed be God, in, and through <hi>Jeſus Chriſt who gave himſelf a ranſom for me.</hi> About him I will claſp, and will not let go.</p>
+               <p>Having once been ſpeaking to me of Gods gracious dealings with her, and what God had wrought in her, and what comfortable evidences ſhe had for Heaven, after all, I ſaid to her, My Dear, doſt reſt in theſe? Reſt? No, no, I reſt only on Jeſus Chriſt, and if I periſh, I'le periſh in his arms, I'le lye at his feet, at his feet: But I ſpeak of theſe, as ſome poor weak evidences; but though weak, yet true, I dare not belye my own ſoul: I could not ſpeak of theſe to others, but only to thee, my Dear, my Heart, my Self, and I ſpeak of them, not as boaſting, but I deſire thy approbation, and I hope God will not caſt me off, but gather me to himſelf, and come life come death, it ſhall be well with me. Being asked what ſhe would have? She anſwered Jeſus Chriſt, and him alone. And indeed affliction ſanctified, makes to ſee emptineſs in e<g ref="char:EOLhyphen"/>very thing, but in Jeſus Chriſt, in the enjoyment of whom is full ſatisfaction, and who is a Chriſtians <hi>all,</hi> and <hi>in all,</hi> and in whom alone <hi>he is compleat, Col.</hi> 3.11—2.10.</p>
+            </div>
+            <div n="11" type="speech">
+               <head>11. <hi>As concerning her earneſt deſires of the good of the ſouls of her Children.</hi>
+               </head>
+               <p>I Would willingly live to bring up my Children, and if I could but ſee Chriſt form'd in them, then I could ſay, <hi>Lord now letteſt thou thy poor ſer<g ref="char:EOLhyphen"/>vant depart in peace.</hi>
+               </p>
+               <p>I <hi>travel</hi> in birth again, as it were of my Children, <hi>till Chriſt be formed in them,</hi> I exceedingly deſire the good of their ſouls, and I am almoſt impatient of delay, as I go up and down, I ſay, Lord when ſhall it once be? and how ſhall I ſee the deſtruction of their ſouls and bodies both. When ſhall I have real cauſe of joy?</p>
+               <p>She formerly weeping over one of her little ones, was asked why ſhe wept, ſhe anſwered, becauſe I would fain live to bring it up in the fear of the Lord, <hi>&amp;c.</hi>
+               </p>
+               <p>One of her Daughters formerly being very ſick and weak, oh how ſolli<g ref="char:EOLhyphen"/>citous was ſhe of her eternal welfare? how earneſtly did ſhe breathe out her deſires for her, that the good Lord would have pity and compaſſion on her, and that he would pleaſe to fit her for himſelf, and that if he took her out of this miſerable ſinful world, he would take her to himſelf, <hi>in whoſe preſence is fulneſs of joy, &amp;c.</hi> and oh that when ever he takes her out of my poor boſom, he would take her into his own.</p>
+               <p>The good Lord help me to diſcharge my duty to all my relations.</p>
+               <p>
+                  <pb n="17" facs="tcp:37223:10"/>She thus once declar'd her ſelf to one of her daughters, I would have you labour to be very good; be ſure you do not neglect to read and pray by your ſelf morning and evening; and labour to mind what you are come into the world for. Endeavour to get the Lord for thy God; make him the chief of thy joy and delight. When thou art to pray, or read, or hear the Word, look upon thoſe ſervices as thy priviledg, not as thy task; as thy duty, and yet as thy dignity, that thou maiſt go to the great God of Heaven and Earth, as to a gracious and loving Father in Chriſt. When thou findeſt thy heart backward to any good duty, go to God, and beg of him to help thee, and quicken thee, <hi>&amp;c.</hi> Be cheerful and mind thy duty to God; the good Lord bleſs thee, and do thy poor ſoul good; ſo ſhall it be well with thee for ever. Good Child don't neglect to read and pray, <hi>&amp;c.</hi> The Lord bleſs you and keep you, bleſs your ſoul with ſpiritual bleſſings, that you may be ſtill doing ſomething to further your ſouls good.</p>
+               <p>Another of her Daughters ſhe thus beſpake. Redeem all the time that poſ<g ref="char:EOLhyphen"/>ſible you can, to ſecret prayer; and often read the Scriptures, which will <hi>make you wiſe to ſalvation,</hi> and will afford you pleaſure, at the laſt, when all things here will fail. I ſhall pray for thee and thy dear Siſters, that you may all grow in all the graces of the ſpirit, and may be <hi>wrought, and made meet</hi> for the heavenly glory, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="12" type="speech">
+               <head>12. <hi>As concerning her care to prepare for the Sabbath, and her great love to Gods Miniſters, Word Preached, and Ordi<g ref="char:EOLhyphen"/>nances,</hi> &amp;c.</head>
+               <p>IN preparing for the Sabbath, I have then been up, when others in the Fa<g ref="char:EOLhyphen"/>mily, where I have been, have been in bed.</p>
+               <p>Of late, by reaſon of my illneſs and weakneſs, I have lain ſometimes longer on Sabbath-day mornings than ordinary; but it hath troubled me; and the Reaſon was, becauſe ſleeping little in the night; I found when I roſe earlier, I was ready afterwards to be ſleepy, and more unfit for Gods ſervice: But if when I had more time, and health, and ſtrength, I had not been more abun<g ref="char:EOLhyphen"/>dant in the ſervice of God, and more earneſt after Heaven and the things of Heaven, than I can be now, my ſpirit would even ſink within me.</p>
+               <p>Gods Miniſters I love dearly, yea, ſo dear are they to me, that it does me good to ſee their faces, and I could even fall down and kiſs their feet, and compel them to come into my houſe; and methinks my houſe is the better, when they have been in it. Oh I dearly love them.</p>
+               <p>Being, when I was in the Country, invited on a Lecture-day by an ho<g ref="char:EOLhyphen"/>nourable perſon to Dinner, the beſt feaſt which I had that day, was at the hearing of the Word; for I had it made appear to me there, that I had made entrance into Heaven. and I was ſo comforted, that I could have found in my heart to have fallen down at the Miniſters feet and have thanked him. It did me good at Dinner to hear him ſpeak, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <pb n="18" facs="tcp:37223:11"/>I have never been better ſatisfied, nor pleas'd, than when I have been hear<g ref="char:EOLhyphen"/>ing the Word Preached, and meditating on it, and conferring with the peo<g ref="char:EOLhyphen"/>ple of God, and praying in ſecret, and hearing counſel and direction for my ſoul; and it has been my prayer, as I have been going to hear, that God would make out ſome counſel and inſtruction, or reproof, to me: and the Lord hath heard me, counſelled me, and comforted me.</p>
+               <p>I do ſo love the word of God, it is ſo ſweet to me when I meditate on it, and I do ſo love Gods Miniſters, and it does ſo rejoice me to think of Mr. <hi>Merrills</hi> coming to my Houſe. <hi>(A worthy Miniſter in the Country deoeaſed)</hi> I hope he will come; I muſt ſay as <hi>Lidia</hi> to <hi>Paul, If you have judged me to be faithful to the Lord, come into my houſe,</hi> &amp;c. And tell him if I dye, I would not have him neglect any more to ſee ſuch as do ſo much deſire to ſee him as I do: I long to ſee him, <hi>&amp;c.</hi> He is an eminent Miniſter, one who is firm to his principles, fears neither mens frowns, nor regards their ſmiles, <hi>&amp;c.</hi> He hath been inſtrumen al of much good and comfort to my ſoul; God was the efficient, he the inſtrument, <hi>&amp;c.</hi> I cannot ſee, how the prizing of Gods Word, and not to prize Gods Miniſters, can ſtand together. I am ſure I prize both, and pray that God would incou<g ref="char:EOLhyphen"/>rage his Miniſters. Ordinances have been very ſweet to me: God in and by them hath come to me, and met me, that I could ſay with <hi>Pe<g ref="char:EOLhyphen"/>ter, It is good for me to be here.</hi> And I have thought the time very ſhort I have been hearing, the word hath ſo comforted-me: I have gone under trouble, but have return'd refreſhed. Being one day very ill, and deſiring her to ſtay at home, ſhe anſwer'd, that muſt be the laſt place I go to. And in a ſickneſs before, ſhe ſaid it grieves me I went no longer, though ſhe went longer than well ſhe could. Oh! how much did ſhe rejoyce? and how glad was ſhe to go into the Houſe of the Lord? <hi>How bleſſed</hi> did ſhe count thoſe who <hi>dwelt there!</hi> Oh! I made account (ſaid ſhe) to be ready betimes, and I ſhan't get in. <hi>&amp;c.</hi> How ready and willing was the ſpirit, when the body was weak! I got cold, ſays ſhe, by going at ſuch a time to hear, but I do not repent, for I had a ſweet refreſhing there, bleſſed be God.</p>
+               <p>Thus how lovely, <hi>amiable,</hi> and deſirable to her were <hi>the Tabernacles of the Lord of hoſts!</hi> And how did her <hi>ſoul long,</hi> yea, <hi>even ſaint for his courts I How</hi> truly might ſhe ſay with <hi>David,</hi> Pſal. 26.8, <hi>Lord, I have loved the habitation of thy houſe, and the place where thine konour dwelleth; and one thing have I deſired of the Lord, that will I ſeek after, that I may dwell in the houſe of the Lord all the days of my life, to bekold the beauty of the Lord, &amp;c.</hi> And how truly might ſhe call Sabbaths and Ordinances her delight! ſhe had there ſeen God <hi>and his face, his power and glory, his goings in his ſanctuary;</hi> yea, Sabbaths were to her as the Subburbs of Heaven. Ordinances are not in Heaven, but Heaven ſhe hath many a time met with in Ordinances: and ſhe drinks but that <hi>Wine new</hi> now in Heaven, which ſhe began to drink in Ordinances here, <hi>Matt.</hi> 26 29.</p>
+            </div>
+            <div n="13" type="speech">
+               <pb n="19" facs="tcp:37223:11"/>
+               <head>13. <hi>As concerning ſome further evidences for Heaven.</hi>
+               </head>
+               <p>I Have a great deal of comfort in this, That I am as willing to take Chriſt for my Lord, as for my Saviour and that I deſire and endeavour; to my utmoſt to obey him, and have heart-riſings againſt ſin, both in my ſelf and in others; and deſire to hate and abhor all appearances of ſin.</p>
+               <p>I have deſired to walk before the Lord in uprightneſs, and have walked with God ſincerely, though not perfectly; and I would not offend God, nor diſhonour him, but have deſired to glorify him, ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y him, and to be ruled and governed by him, <hi>&amp;c.</hi>
+               </p>
+               <p>In hearing the Word, I have been glad of rebukes, as well as promiſes.</p>
+               <p>I love all the people of God, even thoſe I never ſaw.</p>
+               <p>I am ſometimes much troubled for my lukewarmneſs, that I do no more honour God, <hi>&amp;c.</hi> but this upholds me, I look upon it with grief; I would more honour God, and do him better ſervice, and I diſlike it I do no more.</p>
+               <p>I have been ready to think ſometimes I do not love God, becauſe I am no more in communion with God; I love thee, and delight in thy Compa<g ref="char:EOLhyphen"/>ny; but thus I recover my ſelf, That I deſire to have more communion with God, and I am ſtill lifting up my heart to him, and I love thoſe that are his; and when nothing elſe, yet love to the Saints ſtays me. <hi>We know that we have paſſed from death unto life, becauſe we love the brethren,</hi> &amp;c. 1 <hi>John</hi> 3.14.</p>
+               <p>I ſhall not change my company though my place; but thoſe I delighted in here, I ſhall go to when I dye.</p>
+               <p>Having little opportunity of communion with the Saints, I was once rea<g ref="char:EOLhyphen"/>dy to think, if I had more communion with them, it may be I ſhould have leſs communion with God; but going abroad, God convinced me of the con<g ref="char:EOLhyphen"/>trary: for I found my ſelf much quickned by that Chriſtian communion I had, and it made me to delight more in communion with God.</p>
+               <p>She was very deſirous and ſollicitous of <hi>Sions</hi> welfare; the Church of God bore much upon her ſpirit, ſhe much rejoyced ſhe lived to hear of the di<g ref="char:EOLhyphen"/>ſcovery of the late helliſh Plot of the Papiſts. She ſaid, ſhe had earneſtly prayed that God would diſcover the plots of his enemies, and now he hath heard my prayers; and if (ſhe ſaid) we had but more faith, and could but more truſt in God, it would be better. Our ſins indeed are great, but Gods mercies greater. She had ſtill a firm confidence God would bring down his enemies, <hi>&amp;c.</hi> Let us pray earneſtly, and wait patiently, and <hi>Stons</hi> deliverer will appear in due time, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="14" type="speech">
+               <pb n="20" facs="tcp:37223:12"/>
+               <head>14. <hi>As concerning what it was which comforted her in all her afflictions, and in, and under all her pains, ſickneſſes, and weakneſſes.</hi>
+               </head>
+               <div n="1" type="part">
+                  <head>1. <hi>Her intereſt in God.</hi>
+                  </head>
+                  <p>THis is my comfort, That I have an intereſt in God, who is Allſufficient, Unchangeable, <hi>The God of all comfort,</hi> and that <hi>comforteth thoſe that are caſt down.</hi> He hath ſaid to me, I am thine, and thou art mine; and though I fail, he hath made an everlaſting Covenant with me, and that fails not. I am a poor changeable creature, but he is unchangeable, <hi>My fleſh, and my heart fails, but God is the ſtrength of my heart, and my portion for ever,</hi> Pſal. 73.26. Creature-comforts fail, but God never fails. He is my ſtrength, and my ſtay, and my all; and the little intereſt I have in God, is better than a Kingdom of eaſe; and my God, my God in Chriſt will comfort me.</p>
+                  <p>I had ſo much comfort (my Dear) the other night, that I could have found in my heart to have wakened thee to have told thee, but that thou waſt weary; but I can't expreſs it now. Asking her what it was wherein ſhe had ſo much comfort, ſhe replied, not in any thing here, but in God, and in Jeſus Chriſt, and the things of God, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thus that the Lord was her God, this was to her a choice Cordial, and ſove<g ref="char:EOLhyphen"/>raign ground of comfort in all her affliction, as it hath been to others, as to <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> Pſal. 31.14. <hi>But I truſted in thee, O Lord, I ſaid, thou art my God, &amp;c.</hi> And Pſal. 63.1, <hi>O God thou art my God,</hi> &amp;c. So <hi>Pſal.</hi> 42.5, &amp;c. And God himſelf ſo propounds it, <hi>Iſa.</hi> 41.10. <hi>Be not diſmayed, for I am thy God,</hi> &amp;c. And indeed, what greater or more ſoveraign ground of comfort, is, or can there be than this, To have the Lord, who is ſo infinite and allſufficient a God, to be our God? and what can be wanting where Allſufficiency is? He is the ve<g ref="char:EOLhyphen"/>ry ſum and center of all our happineſs and good; and to have this God our God, what ever he is, or has ours, to be for our comfort and benefit, all his excellencies and perfections, his Wiſdom, Power, Goodneſs, Mercy, <hi>&amp;c.</hi> Surely no greater, nor more ſoveraign ground of comfort can there be; for God contains all, and that God my God, <hi>ſurely</hi> all that is truly good and comfortable, muſt needs be wrapt up in this; My God, it is more than my Kingdom, my World, my Heaven and Earth; yea, many Heavens and Earths, were they extant. This comprehends, at once, all good, and all's concen<g ref="char:EOLhyphen"/>ter'd here; more cannot be ſaid, and truly leſs will not ſerve our turn. In God, as in a Cryſtal fountain is, and reſides for ever, all the refined good<g ref="char:EOLhyphen"/>neſs and ſweetneſs of all the creatures in Heaven and Earth; here's all we want, would have, or reaſonably can deſire; and therefore this muſt needs be the very foundation of all true comfort and conſolation; and this was that which was in a ſpecial manner the comfort and ſupport of this preci<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous ſoul. She often would ſay, <hi>My God, my God.</hi> And except he be our
+<pb n="21" facs="tcp:37223:12"/>God, the greater good he is, the greater is our miſery. <hi>Tolle meum, &amp; tolle Deum.</hi> Take away my, and take away God, as to comſort. And ſurely therefore if there be any thing under Heaven truly worthy our la<g ref="char:EOLhyphen"/>bouring after, and laying out our utmoſt endeavours for, it is this, the getting upon good grounds, ſound evidence to our ſouls, that God is ours.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>2. <hi>The Love of God in Chriſt, his loving-kindneſs, and the aſſurance thereof.</hi>
+                  </head>
+                  <p>Oh! the meditation and contemplation of the love of God in Chriſt, it is the ſweeteſt Cordial, and hath, amidſt all my pains, been my Cordial day and night. And ſhe told a friend that came to ſee her, That was it not that ſhe had a comfortable aſſurance of Gods love to her in Chriſt, ſhe could not tell how to bear up under one of thoſe pains (which indeed were very ſharp); but the contemplation of that, made her bear up under all.</p>
+                  <p>Oh there are <hi>heights,</hi> and <hi>depths,</hi> and <hi>lengths,</hi> and <hi>breadths,</hi> in the love of God in Chriſt <hi>It paſſes knowledg, Epheſ.</hi> 3.18, 19. And eternity will be little enough to praiſe God; and that which exceedingly comforts me, is the ever<g ref="char:EOLhyphen"/>laſtingneſs of that love, that he will never take away his loving-kindneſs from me.</p>
+                  <p>Once, formerly, after long trouble, God gave me a glimpſe of his love; and though I was very ſick and weak, and could neither ſtand nor go, yet then methoughts I was not ſick, I did not feel it, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Being asked if ſhe would have ſome Cordial, ſhe replied. Oh! the favour of God is the beſt Cordial, <hi>Better than Life,</hi> Pſal. 63, 3. Oh! pray I may be more and more reconciled to God, and have clearer evidences, he is my God.</p>
+                  <p>Another time, being very faint, and asked what ſhe would have, ſhe re<g ref="char:EOLhyphen"/>plied more of Gods favour, and to do his will I have ſo rejoyced in Gods goodneſs, that I have not felt the ground I have gone upon.</p>
+                  <p>When my pains are greateſt, I have uſually moſt peace, and that upholds me.</p>
+                  <p>Not long before her death, ſhe told one of her relations, that ſhe was ſo raviſhed with the contemplation of the love of God in Chriſt, that it did even ſwallow her up, ſo as that ſhe was not able to bear it, nor con<g ref="char:EOLhyphen"/>tain it; but was forced to remit and let go her preſent thoughts thereof. And the ground of my comfort is the aſſurance of the love of God which he hath given me: And what is the aſſurance of Gods love worth? It is more worth than a thouſand worlds, and I will not let it go; it makes me for joy, as it were, to fly up and down.</p>
+                  <p>Thus Gods Love was better to her than Wine, yea than Life; and the Love of God and the aſſurance thereof, is indeed a Cordial that will revive, when none other can nor will, <hi>none to that.</hi> This is the very life of our lives the light of our day, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>un of our firmament, the ſpring of our year, the joy of our hearts, the ſolace of our ſouls, the ſtrength, comfort and ſupport of our ſpirits, the mercy of
+<pb n="22" facs="tcp:37223:13"/>mercies, the bleſſing of bleſſings; ſo much better than life, that life it ſelf without it, is no better than death: But this is life even in death; and hence the Prophet <hi>David</hi> prays for this, for his Cordial and comfort, <hi>Pſal.</hi> 119.76, <hi>Let, I pray thee, thy merciful kindneſs be for my comfort,</hi> &amp;c. And this was the cordial and comfort of this bleſſed Saint now in Heaven, in all her tryals and afflictions while here.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>3. <hi>The word and promiſes of God.</hi>
+                  </head>
+                  <p>Theſe were to her, as a <hi>banqueting,</hi> or <hi>houſe of wine, as ſtaying flagons,</hi> and <hi>comforting apples,</hi> as <hi>green paſtures</hi> and <hi>ſtill waters, &amp;c.</hi> Cant. 2.4, 5. Pſal. 23.2.</p>
+                  <p>As that word, <hi>Rev.</hi> 3.19, <hi>As many as I love, I rebuke and chaſten.</hi> And Heb. 12.10—<hi>But he for our profit, that we might be partakers of his holineſs.</hi> And Rom. 8.28, <hi>And we know that all things work together for good to them that love God,</hi> &amp;c.</p>
+                  <p>One night ſhe repeated over to her ſelf ſeveral promiſes, which ſhe ſaid, God brought to her mind, and were a very ſweet cordial to her: Such as Pſal. 34.22, <hi>The Lord redeemeth the ſoul of his ſervants, and none of them that truſt in him ſhall be deſolate.</hi> Verſ. 10. <hi>The young lyons do lack and ſuffer hun<g ref="char:EOLhyphen"/>ger; but they that ſeek the Lord ſhall not want any good thing.</hi> Iſa. 40.11, <hi>He ſhall gather the Lambs with his arm, and carry them in his boſom,</hi> &amp;c. Verſ. 29, <hi>He giveth power to the faint, and to them that have no might he increaſeth ſtrength,</hi> &amp;c.</p>
+                  <p>I am much comforted with that promiſe, <hi>Iſa.</hi> 43.25, and I would even live upon it: <hi>I, even I am he that blotteth out thy tranſgreſſions for mine own ſake, and will not remember thy ſins,</hi> &amp;c.</p>
+                  <p>There were two places of Scripture which did more eſpecially much run in her mind of late, and were very comforting to her: one was 1 <hi>Cor.</hi> 15.55, <hi>O death where is thy ſting? O grave where is thy victory,</hi> &amp;c? Verſ. 57, <hi>But thanks be to God, who giveth us the victory through our Lord Jeſus Chriſt.</hi>
+                  </p>
+                  <p>The other, Job 19.25, 26, 27, <hi>For I know that my Redeemer liveth, and that he ſhall ſtand at the latter day upon the earth. And though after my skin, worms deſtroy this body, yet in my fleſh ſhall I ſee God; Whom I ſhall ſee for my ſelf, and mine eyes ſhall behold, and not another, though my Reins be conſumed within me.</hi> Theſe words were very refreſhing to her, and were the words diſcourſ<g ref="char:EOLhyphen"/>ed of by Dr. <hi>Jacomb</hi> at her Funeral; though it being propounded to her, ſhe acknowledged her great unworthineſs, that any ſuch thing ſhould be done for her; but it might (ſhe ſaid) do good to the living. Thoſe words eſpe<g ref="char:EOLhyphen"/>cially, <hi>Whom I ſhall ſee for my ſelf, and mine eyes ſhall behold, and not another,</hi> ſhe often repeated, and was much comſorted by: <hi>For my ſelf, for my ſelf.</hi> And, bleſſed be God, now ſhe ſees God <hi>for her ſelf,</hi> even <hi>for her ſelf,</hi> and is in the actual poſſeſſion of that bleſſedneſs, of which the contemplation was ſo ſweet to her here. She is now ſeeing God in Heaven, in her ſoul; and though <hi>after her skin, worms deſtroy her body,</hi> yet ſhe alſo ſhall in due time
+<pb n="23" facs="tcp:37223:13"/>(her body being rais'd) <hi>ſee God in her fleſh,</hi> for her ſelf, <hi>and her eyes ſhall behold and not another, though her reins be conſumed within her.</hi> But her ſoul is now at preſent injoying that viſion; indeed ſhe <hi>beholds man no more here, with the inhabitants of the world,</hi> as <hi>Hezekiah</hi> ſpake, <hi>Iſa.</hi> 38 11, neither ſees ſhe any more her near and dear relations, but ſhe ſees a far better ſight, ſhe ſees and injoys God. and ſhall do ſo for ever, and ſo is now in the partici<g ref="char:EOLhyphen"/>pation of the comfort wrapt up in that Scripture, and knows experimentally what it is to ſee God (which ſhe had been ſo long praying and waiting for) and to ſee him <hi>for her ſelf, for her ſelf, and not another, as ſhe repeated it.</hi>
+                  </p>
+                  <p>Asking her once what it was that comforted her? This, ſaid ſhe, that God hath brought home his promiſes to my ſoul, and applied them to me; he hath ſaid this promiſe belongs to thee, Iſa. 54.7, 8, <hi>For a ſmall mo<g ref="char:EOLhyphen"/>ment have I forſaken thee, but with great mercies will I gather thee. In a little wrath I hid my face from thee for a moment; but with everlaſting kindreſs will I have mercy on thee, ſaith the Lord thy Redeemer.</hi> O how full and ſweet is this promiſe, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thus Gods Word and Promiſes were very comforting and refreſhing to her, very ſweet, yea <hi>ſweeter than honey,</hi> and <hi>the honey-comb; they were her ſongs in the houſe of her pilgrimage, better to her than thouſands of gold and ſilver; and ſhe rejoyced thereat, as one that findeth great ſpoil,</hi> Pſal. 119, 54, 72, 162, 111. And by <hi>thoſe things,</hi> as <hi>Hezekiah</hi> ſaid, <hi>She lived,</hi> and <hi>in all theſe things was the life of her ſpirit, Iſa.</hi> 38.16, and ſhe might well ſay, as once the Prophet <hi>David,</hi> and as a precious Saint and dear ſiſter of hers long ſince formerly ſaid, <hi>
+                        <g ref="char:V">Ʋ</g>nleſs thy Law had been my delights, I ſhould then have periſhed in my af<g ref="char:EOLhyphen"/>fliction, Pſal.</hi> 119.2. And the Word of God is the beſt Cordial in the world. Thus that which ſupported them both was the Word of God, and indeed in ſeveral reſpects:
+<note n="*" place="margin">
+                        <hi>Mrs.</hi> Elizabeth Moor <hi>ſometimes of</hi> Aldermanbury, Lon<g ref="char:EOLhyphen"/>don, <hi>who dyed now ma<g ref="char:EOLhyphen"/>ny years ſince, and at whoſe funeral Mr.</hi> Ca<g ref="char:EOLhyphen"/>lamy <hi>preached (as ſhe deſired) on thoſe words</hi> Pſal 119.92, <hi>Which Scrmon, with ſeveral others on the ſame Text, were long ſince extant. And to them we an<g ref="char:EOLhyphen"/>nexed her evidences for Heaven.</hi>
+                     </note> both theſe dear Siſters, and their caſes were much a-like; both examples of great affliction, as alſo of extraordinary patience; in which <hi>they poſſeſſed their ſouls:</hi> both brought to ſuch a ſweet humble ſubmiſſive frame, as to be wil<g ref="char:EOLhyphen"/>ling to undergo whatever the Lord was pleas'd to in<g ref="char:EOLhyphen"/>flict, and as long as he pleas'd to afflict; both injoying much inward peace and comfort, and ſtill fetching cordials out of Gods Word to keep them from faint<g ref="char:EOLhyphen"/>ing. Both, though their afflictions were heavy, defired more the ſanctifying of them, than their removal: and more that they might learn the Leſſons God would teach by them, than to be rid of them: Both were unbottom'd off themſelves and their own righteouſneſs, and caſt their Souls wholly and only on Jeſus Chriſt and his righteouſneſs, for life and ſalvation; both as willing to take Jeſus Chriſt, as their Prophet to teach them, as their King to govern them and ſubdue them to himſelf, as their Prieſt to ſatisfie for them and reconcile them. Both <hi>proved and tried,</hi> as <hi>ſilver is tried,</hi> went (as
+<pb n="24" facs="tcp:37223:14"/>it were) <hi>through fire and water,</hi> but now are <hi>brought out into a wealthy place,</hi> Both ſuch as had not their Ark to build when the flood came, nor their graces, comforts, nor evidences to ſeek, when they came to dye; but had nothing then to do but to dye, having made comfortable proviſion afore<g ref="char:EOLhyphen"/>hand againſt an evil day, and improved their time, health and ſtrength, whilſt they had it, for the good of their ſouls. Both walked in Heavens way, and are now arrived at Heavens happineſs; both endured the Croſs, and now receive the Crown; and their <hi>light afflictions which were but for a moment, have but wrought for them a far more exceeding and eternal weight of glory.</hi>
+                  </p>
+               </div>
+               <div n="4" type="part">
+                  <head>4. <hi>Prayer and Meditation, and former experiences.</hi>
+                  </head>
+                  <p>I Have meditated often on this bed, and have had much comfort in ſeveral evidences for Heaven; and ſo have ſweetly fallen aſleep, and ſweetly a<g ref="char:EOLhyphen"/>waked again.</p>
+                  <p>When by reaſon of weakneſs, I could not pray whilſt up, when I was in bed I ſpent a great time of the night in meditation and prayer, and was ſweetly refreſhed. And when I cannot ſpeak, I lye and think, and medi<g ref="char:EOLhyphen"/>tate, <hi>&amp;c.</hi>
+                  </p>
+                  <p>I have had clear evidences for Heaven, and Gods loving-kindneſs hath ſhone clearly upon me, though afterward they have been clouded: I re<g ref="char:EOLhyphen"/>member <hi>the days of Gods right hand,</hi> &amp;c.</p>
+                  <p>I can truly ſay I have cryed to the Lord my God, and he hath heard me in my diſtreſs, and delivered me, and oh that I could more and more honour him, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The Lord hath been very gracious to me; though I have had caſtings down yet have I had liftings up; the Lord hath ſupported me under great temptations of Satan, and much ſadneſs of heart, by reaſon of the Churches ſufferings, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="5" type="part">
+                  <head>5. <hi>Heaven and the future happineſs and glory.</hi>
+                  </head>
+                  <p>
+                     <hi>If this earthly houſe of this tabernacle was diſſolved, I have a building of God an houſe not made with hands eternal in the heavens,</hi> &amp;c. 2 Cor. 5 1.</p>
+                  <p>What a reſtleſs condition am I in? When I am in bed, then I would be up; when up, then in bed, <hi>&amp;c. There remains a reſt for the people of God Heb.</hi> 4.9, And he will carry me through the gates of Death, and bring me to his everlaſting reſt: The times of refreſhing are coming on a pace, <hi>&amp;c.</hi>
+                  </p>
+                  <p>I have a painful night, but ſhall have a joyful morning, I ſhall be in the embraces of my dear Redeemer; there will be none of theſe toſſings to and fro hereafter, I ſhall reſt quietly in the bed of the grave, <hi>&amp;c.</hi>
+                  </p>
+                  <p>If the Lord will have me end my days in this condition, with pains and weakneſs. Heaven will pay for all, there the weary are at reſt.</p>
+                  <p>
+                     <pb n="25" facs="tcp:37223:14"/>Being under convulſions, theſe ſays ſhe are great ſhogs, but God will carry me through them. I am not afraid of death, but ſhuck at theſe pains, but who would not go through pains to ſuch a place of reſt? <hi>In my fathers preſence are fulneſs of joy,</hi> &amp;c. Asking her how ſhe did, ſhe ſaid, I ſhall be well anon, meaning in Heaven. And one telling her, he hoped ſhe might be better by ſuch a time, ſhe replied, ſhe hoped ſo too, being in Heaven.</p>
+                  <p>I am now going, and I verily believe I ſhall go to God. I can't ſpeak now, I am very weak and low; What a condition was I now in, if I could not ſee beyond death, and beyond the grave, <hi>&amp;c?</hi>
+                  </p>
+                  <p>I would be buried in ſuch a place; but no matter where, God will raiſe up my duſt again.</p>
+                  <p>I am going <hi>to the heavenly Jeruſalem, to an innumerable company of Angels,</hi> &amp;c. and into the boſom of my bleſſed Redeemer; and what bleſſed company are theſe, <hi>&amp;c?</hi>
+                  </p>
+                  <p>One of her Daughters being in the Country, and not returning at the time expected, Tell her (ſays ſhe) I ſhall meet her in a better place, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Thus the fore-ſight, and the fore-thoughts of the future glory, comforted her under all her afflictions here; and one minute now in Heaven, makes amends for all her pain and miſery here.</p>
+               </div>
+            </div>
+            <div n="15" type="speech">
+               <head>15. <hi>As concerning her carneſt deſires to be diſſolved,</hi> &amp;c.</head>
+               <p>IF the Lord ſees good, I would fain depart, and leave this body of death: when will God ſend his Meſſenger? Is this the night I muſt depart hence? O! what joyful news would that be! another night! Surely this is the night God will call me home. <hi>Come Lord Jeſus, come quickly, make kaſt, make haſt.</hi> O my God, when wilt thou come? O when will that ſweet day come? I hope it is now nigh, what a joyful time will that be, to have a total vi<g ref="char:EOLhyphen"/>ctory over ſin.</p>
+               <p>I am now going to be married, and the Wedding-knot will be tied for, everlaſting. When will my God come? What a deal of do is here for my ſoul to get out of this carcaſs? and how much a do have I to get looſe? But theſe ſhall meet again. I earneſtly deſire, earneſtly deſire, <hi>to be clothed upon with that houſe which is from Heaven, &amp;c.</hi> When will my Father ſend his Waggons to fetch me? And telling her ſhe was as a Ship at the Downs, waiting for a fair Gale of Wind; but when ſays ſhe will that bleſſed Gale come? And ſpeaking to her of her going to Heaven, to her Fathers Houſe, ſhe replied, ſhe feared not yet, Lord ſend me ſafe thither. And when through weakneſs, we could ſcarce underſtand what ſhe ſaid, ſhe breath'd home, home, home; and ſeem'd troubled, when any ſaid they hoped ſhe might recover again, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="16" type="speech">
+               <pb n="26" facs="tcp:37223:15"/>
+               <head>16. <hi>As concerning the ends and reaſons of her ſo earneſt deſires to be diſſolved.</hi>
+               </head>
+               <p>UPon ſerious conſideration, I found, that the end why I deſired to dye, it was not to be freed of my pains, or troubles, but that I might be freed of ſin, and no more diſhonour God, and that I might injoy more of him, and be no more diſcontented under his hand, which I am ſometimes ready to be.</p>
+               <p>I would fain go to Heaven, and long to be in Heaven, Why? Becauſe then I ſhould be freed of Satans temptations, and ſin no more; and that I might have more time to ſerve God; and I am troubled I can have no more here; but then I ſhould do nothing but ſerve God, <hi>&amp;c.</hi> And oh! what a mercy and happineſs would it be to me, if my work was done, to be gone! <hi>&amp;c.</hi>
+               </p>
+               <p>I am afraid leſt I ſhould deſire to dye to be freed of my pains; but I would deſire to dye out of love to God, and that I may injoy him, and be rid of ſin more than ſorrow; and then our graces ſhall be perfect, know<g ref="char:EOLhyphen"/>ledg perfect, love perfect, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="17" type="speech">
+               <head>17. <hi>As concerning her being above the fears of death.</hi>
+               </head>
+               <p>SOmetimes formerly ſhe has not (though ſeemingly near to death) been ſo willing to dye, but would ſay, Will not God make me more willing to dye before I dye? Surely he will, I have been more willing, <hi>&amp;c.</hi> And ſo he did in this her laſt ſickneſs, whereby we might have foreſeen her death to have been near.</p>
+               <p>Asking her whither ſhe was not afraid of death, ſhe replied, no I am not; I do not look upon death ſingly, but as it brings me to reſt: I muſt go through that dark entry, before I can get to my Fathers houſe. I ſhall go to my firſt husband, <hi>&amp;c.</hi>
+               </p>
+               <p>Methoughts I ſaw death, as a Meſſenger, coming for me, and I told him, I would go with him. I thought I ſhould have died ſuch a day, and me<g ref="char:EOLhyphen"/>thoughts I was troubled to think of living. When ſhe was in pain, ſhe uſed to ſay, <hi>Is not the ſound of his Maſters feet behind?</hi> Phyſick won't do, <hi>&amp;c.</hi> And this ſhe ſpeak, as being little concerned therewith. She ſaid of her ſickneſs, theſe are but Meſſengers to bid me prepare, <hi>&amp;c.</hi> I bleſs God, I can ſmile on that grim Meſſenger, God will ſend his Angels to conduct me ſafe through that dark entry, to my Fathers Houſe. A Child is afraid to go through a dark place by himſelf; but God ſays, <hi>Fear not, for I am with thee,</hi> &amp;c. I am not afraid of death; but my paſſage to my fathers Houſe is rough: But having gotten ſo far onward in my way, I am loath to go back again. If that ſweet Meſſenger come, I will bid him wellcome and ſhall rejoyce; and if you love me indeed, you will rejoyce too.</p>
+               <p>
+                  <pb n="27" facs="tcp:37223:15"/>I am no more afraid of Death; than to take the choiceſt Cordial that is for my good; for ſo is death, and I look through it, and beyond it, and long to be with my dear Lord and Saviour. My Children are loath to look out my burial-clothes, but they are my wedding-clothes, and I hope my Bridegroom is not far of, <hi>&amp;c.</hi>
+               </p>
+               <p>Telling her of a friend that would come to ſee her, ſhe replied, ſhe will come to my burial. Why, ſaid I, ſaiſt thou ſo? She anſwered, why ſhould I not comfort my ſelf, that I am going home? I long to be at home, we ſhall meet again. How ſweet will that ſleep be, when I ſhall wake in Heaven? Seeing one of her Daughters weep, why ſays ſhe weep you? would you not have me go to my Father? He is ſending his holy Angels for me. <hi>Are they not all miniſtring ſpirits, ſent forth to miniſter for them who ſhall be beirs of ſalvation,</hi> Heb. 1.14. I have one night leſs, I bleſs God, to be here, where is ſin and ſorrow.</p>
+               <p>Seeing Cordial-water brought for her, ſhe ſaid, ſhe hoped ſhe ſhould not live to drink up half that water: and being to take a Powder, ſhe asked if it was to ſweeten her paſſage, then ſhe would take it, but not to ſtay it; but what God will. I can ſcarce ſwallow my ſpittle, a comfortable fore<g ref="char:EOLhyphen"/>runner I hope of death. And her pains falling into her joynts, ſhe rejoy<g ref="char:EOLhyphen"/>cingly ſaid, there was ſomething further to help her forward to her jour<g ref="char:EOLhyphen"/>neys end. Death is indeed a ſowre Meſſenger, but my Fathers Meſſenger to fetch me home.</p>
+               <p>She ſpeaking of her death, and how ſhe would have things ordered at her Funeral, ſhe ſpake thereof with a great deal of joy and rejoycing; but perceiving me to be troubled, ſhe looked ſmilingly upon me, and ſaid, I can with as much joy, yea with more joy ſpeak of my burial-clothes, than ever the day before I was married I could of my wedding-clothes. I ſhall be cloth'd with the <hi>White Robe of Chriſts righteouſneſs,</hi> and have a <hi>Diadem</hi> upon my head, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="18" type="speech">
+               <head>18. <hi>Some few of her breathings, as in reſerence to her ſelf.</hi>
+               </head>
+               <p>SHould I not make my moan to my God? The Lord give me more pati<g ref="char:EOLhyphen"/>ence, that I may not diſhonour him now at laſt; my God teach me, teach me as well as correct me, ſtrengthen me, <hi>&amp;c.</hi>
+               </p>
+               <p>I want nothing but a thankful fruitful heart, an heart more humble, ho<g ref="char:EOLhyphen"/>ly, and more to honour God: I would have more grace, more faith, pa<g ref="char:EOLhyphen"/>tience, meekneſs, humility, more of Heaven, more holineſs, more likeneſs to God; and I beg praiers, that the Lord would fit me for what his will is concerning me, and inable me to bear what he is pleas'd to lay upon me. I am weak, but he is ſtrong; my ſtrength fails, but his never fails. Good Lord help me to be ſtill carrying on my great work, <hi>&amp;c.</hi> And oh that I might loſe nothing in this hot furnace but droſs. But why ſay I hot? It is no other than what my Father ſees good, and all ſhall work together for
+<pb n="28" facs="tcp:37223:16"/>my good, if my corruptions hinder not; I am ſo afraid they ſhould, but I earneſtly deſire they may not, and I hope the Lord will rather anſwer my deſires, than let it be according to my fears. <hi>Lead me to the rock that it higher than I.</hi> The good Lord fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us for what his good pleaſure is, and for the greateſt trials that can come. <hi>Here we have no continuing City,</hi> the good Lord help us to be ſeeking <hi>one to come, a City that hath foundations,</hi> &amp;c. The Lord fit us for the day of our death, that it may be a good day to us. The good Lord ſanctifie all his fatherly corrections to me, and grant I may by all be made the more <hi>meet to partake of the inheritance of the Saints in light:</hi> that we may live to honour our good God all our days, that ſo when our Lord comes, we may be found of him in peace.</p>
+               <p>The Lord help us to get our hearts into an heavenly frame, that our me<g ref="char:EOLhyphen"/>ditations may be more of thoſe things that concern our ſouls, and will ſland us in ſtead to all eternity, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="19" type="speech">
+               <head>19. <hi>Some of her Speeches to, and Prayers for her Husband, as in reference to himſelf and Children formerly.</hi>
+               </head>
+               <p>MY Dear, be not melancholly, but ſtill wait upon God, reſt quietly upon him, he that hath fed us, cloth'd us, and provided for us, will ſtill I hope do it. My Dear, be not ſad, or troubled, but caſt thy burdens upon the Lord, he will ſuſtain thee: The good lord help us to exerciſe faith and patience. O that we could live more a life of faith and holineſs, and more ſweetly and freely depend upon our good God, who never fails his poor Children in any time of need: O let us caſt all our care upon God, who hath, and will care for us and ours.</p>
+               <p>God hath been a long while weaning thee from me, we muſt part, but we ſhall after a little while meet again: Reſign thy will up to Gods Will, be willing to part with me, that is the way ſtill to have me, <hi>&amp;c.</hi>
+               </p>
+               <p>I am in a ſtreight (this was many years ſince) willing to leave a world of ſin, and a body of ſin, and willing to be in Heaven, where I may ſin no more, nor ſorrow no more; but ſorrow no more, that's the leaſt, where I may ſerve God without diſtraction, and always be in his preſence, and among the ſpirits of juſt men made perfect. O it is ſweet being there, and yet I am willing to ſtay, knowing the need my dear Husband and Children will have of me, <hi>&amp;c.</hi> Indeed I have been able to do little for them, but my earneſt prayers have been for them, and my tender affections towards them, eſpecially for their eternal wellfare and happineſs; and though I have not done ſo much as I would have done, and deſired to do; yet this is my com<g ref="char:EOLhyphen"/>ſort. I did what I could, yea more, many times, than this poor carcaſs could well indure: and this is my comfort, I bleſs God.</p>
+               <p>Before ever I firſt came to thee, I ſought God to direct me, and deſired it might not be, if it was not for his glory and both our comforts; and that which made me willing to enter into that condition, it was, becauſe
+<pb n="29" facs="tcp:37223:16"/>God would have it ſo, otherwiſe I conſidered, what might have diſcouraged me from it, as hindrances in the ſervice of God, loſſes and croſſes, care to bring up Children, and then grief to part with them, <hi>&amp;c.</hi> The firſt time I went to ſpeak with her, I found ſhe was at prayer, (as to that great con<g ref="char:EOLhyphen"/>cern) to that God who makes all meetings and relations happy by the en<g ref="char:EOLhyphen"/>joyment of himſelf.</p>
+               <p>The Lord will provide for thee, and will not leave thee, nor forſake thee: <hi>in nothing be careful</hi> with any diſtracting care; faith leaves? Chriſtian nothing to do but to pray and give thanks: if I leave thee, God will not leave thee, but viſit thee with his loving-kindneſs: if he take away a crazy broken Ciſtern, he will be a fountain of living waters. Fear not but God will tread down thy ſpiritual ene<g ref="char:EOLhyphen"/>mies, and therefore ceaſe not to wreſtle, and ſtrive, and watch, and pray: O that we could always remember we are born Soldiers the good Lord help us to fight <hi>the good fight of faith, that we may lay hold on eternal life,</hi> &amp;c.</p>
+               <p>God hath bleſſed thy miniſtry to me; and what thou didſt Preach as con<g ref="char:EOLhyphen"/>cerning the <hi>loving-kindneſs of God, as being better than life,</hi> it was very ſweet in the Preaching of it, and it is ſo now in my own experience; and it was not in vain that God put thee alſo upon that ſubject, <hi>Pſal.</hi> 73.26, <hi>My fleſh and my heart faileth, but God is the ſtrength of my heart, and my portion for ever.</hi> For when is a time to make uſe of God as our portion, but in a time of affliction? then to truſt in his all ſufficiency, to ſubmit to his will, <hi>&amp;c?</hi>
+               </p>
+               <p>I love thee dearly, I love thy ſoul, and pray for the good of it, as much as my own; I can ſay more than my own; God is thy God, and will be thy God, and the God of thy ſeed; I truſt my dear Children and Husband with him, he will take care of them, and provide for them.</p>
+               <p>I am going home, going home to my Fathers houſe, I muſt go. <hi>&amp;c.</hi> Where are my dear Children, will they not follow after me to Heaven?</p>
+               <p>Wait on God, God is good to them that wait for him, <hi>&amp;c.</hi> he is a God at hand, <hi>&amp;c.</hi> he will make thy Children bleſſings to thee, labour to bear up thy ſpirits, the Lord help thee ſo to do, and caſt thy ſelf and thy affairs up<g ref="char:EOLhyphen"/>on the Lord. <hi>&amp;c.</hi> The Lord counſel comfort, ſupport and direct thee in all thy ways. The Lord do thee and thine good, and multiply on you his bleſ<g ref="char:EOLhyphen"/>ſings ſpiritual and temporal, and give thee to ſubmit to his will. The Lord help thee in thy work, and make it proſperous and ſucceſsful, and prepare us for the doing and ſuffering of his moſt holy will, whatever it be. The Lord prepare thee to part with me, and me to reſign my ſelf up to him, as into the hand of a faithful Creator. The Lord make our ſouls proſperous, the outward man is but for a little while.</p>
+               <p>Lord keep my dear Husband by thy power, <hi>&amp;c.</hi> and my dear Children, that they may walk uprightly before thee, and do thy pleaſure, and ſubmit to thy will; and whatever they do here, Heaven will be enough hereafter. The Lord recompence all thy labour of love to me, <hi>&amp;c.</hi> The good Lord bleſs you, and keep you, and cauſe his face to ſhine upon you, and give you inward joy and peace, the light of his countenance, which is better than any thing here, <hi>&amp;c.</hi> And Lord keep thy Miniſters, hold them faſt in thy hand, and tread their enemies
+<pb n="30" facs="tcp:37223:17"/>down as mire; preſerve the Goſpel. O the Goſpel for my poor Childrens ſake, that though I go, that may continue ſtill to mine, <hi>&amp;c.</hi> O that we may be <hi>kept by the mighty power of God, through faith unto ſalvation.</hi> The good Lord ſtill follow thee with loving-kindneſs and tender mercies all thy days, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="20" type="speech">
+               <head>20. <hi>Some of her Speeches and Prayers very lately, and a little before her Death.</hi>
+               </head>
+               <p>MY Dear, I have but a few days now to be with thee, and when by reaſon of thy being abroad, I cannot ſee thee, nor injoy thy Company ſo much as I would, I comfort my ſelf with this, I ſhall one day injoy thee again, and we ſhall ever be together.</p>
+               <p>I muſt declare this. That thou haſt been a dear, loving, faithful Husband to me, and I have received much comfort by thy Preaching, Praying, and what thou haſt ſpoken to me, and God hath a bleſſing in ſtore for thee; for many are bleſſing God for thee, <hi>&amp;c.</hi> And I bleſs God for thee, but can't ſpeak much now; the Lord hath made thy miniſtry abundantly comfortable to me, abun<g ref="char:EOLhyphen"/>dantly, abundantly, and I have come home full of joy, and I have told thee, one ſhove more would have put me into Heaven, <hi>&amp;c.</hi> But ſince I came to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and could not have the opportunity to hear thee as formerly, God hath made others miniſtry, eſpecially Dr. <hi>Jacombs</hi> very comfortable to me.</p>
+               <p>Why art thou ſo ſad? thou ſhouldeſt rejoyce, <hi>count it all joy when ye fall into diverſe temptations, caſt thy care upon God, and in nothing be troubled,</hi> he will pro<g ref="char:EOLhyphen"/>vide, he will not leave thee, <hi>&amp;c.</hi> wouldeſt have me continue ſtill in this miſery and pain? We came together to part, and therefore let us part comfortably, we ſhall meet again, where we ſhall never part, I go a little before; thou loveſt me, and wilt thou not let me go to my firſt Husband? I have another Husband, and if he ſend a Meſſenger for me, I muſt go, though I leave never ſuch dear Relations here. Do as much work as thou canſt for God, but do not over do, that thou maiſt hold out the longer.</p>
+               <p>The loſs and hindrance I have been to my family, (ſhe meant by reaſon of her long ſickneſs) the Lord will make it up to thee and thy Children, do but truſt in him, <hi>&amp;c.</hi> The Lord will direct thee what to do; do not trouble thy ſelf beforehand, he will make thy way plain before thee.</p>
+               <p>She ſpake to thoſe about her as followeth.</p>
+               <p>Make Religion your buſineſs, walk with God, get a Covenant-intereſt in Chriſt, do not neglect ſecret prayer, I have found much comfort in it; prize the Word by which you may be ſaved, hear it as often as poſſibly you can, and hear it, and do it. Live comfortably and contentedly together. It is good to ſtore up Cordials, and make proviſion againſt times of affliction, <hi>To give all diligence to make our calling and election ſure;</hi> and we had need in times of health to provide for ſickneſs and death, and all little enough. It is one thing to talk of death, and another thing to be willing to dye, <hi>&amp;c.</hi>
+               </p>
+               <p>I would have you all bleſs God, when I am gone, that I ſhall ſin no more,
+<pb n="31" facs="tcp:37223:17"/>ſorrow no more, <hi>&amp;c.</hi> She ſaid to one of her Grandchildren about four years old, poor Child, the Lord give thee a Covenant-intereſt in himſelf. If I live I purpoſe to do my endeavour to teach thee to know God, and love God and Je<g ref="char:EOLhyphen"/>ſus Chriſt; but if I dye, Sirs, do you take care, and let him not play on Sabbath-days, let all his play-things behind, <hi>&amp;c.</hi> To her Daughters Maid, ſhe ſaid, be inſtructing theſe poor Children, learn them good things, <hi>&amp;c.</hi> the Lord has a bleſſing in ſtore for my Children and the little ones.</p>
+               <p>One of her Daughters being out of the Town, and ſuppoſing ſhe ſhould ſee her no more, Tell her (ſays ſhe) I hope God will carry on the work he has begun, and give her grace to fear him, <hi>&amp;c.</hi> I would have her labour to get that good work finiſhed, and to eye God in all his dealings, and to do his will, to ask counſel of God for body and ſoul, for temporal and ſpiritual affairs and let her truſt in God: Take heed, <hi>&amp;c.</hi> God expects we ſhould follow ſome employment here, and not to fall upon buſineſs cauſes to grow melancholly and diſcontent<g ref="char:EOLhyphen"/>ed; there are many ſnares in living out of a calling: An idle life is pleaſing to the fleſh, to take no care, nor pains; but it will be ſad afterward, <hi>&amp;c.</hi> my dear Husband, my dear Children, but I can't ſpeak now, <hi>&amp;c.</hi>
+               </p>
+               <p>She prayed earneſtly for her Husband, Children, little ones, and for Gods Mi<g ref="char:EOLhyphen"/>niſters, <hi>&amp;c.</hi>
+               </p>
+               <p>I pray all the bleſſings of Heaven may be upon thee, upon ſoul and body, and that he would make up the want of all Relations by himſelf. The Lord bleſs thee, the Lord bleſs thee out of <hi>Sion,</hi> and recompence all thy love to me a thouſand<g ref="char:EOLhyphen"/>fold, with his tender compaſſions. The Lord proſper thee in the work of thy Miniſtry, that thou maiſt win many ſouls to him. The Lord make my Children truly gracious, and comforts to thee. The Lord give them grace, and the ſhi<g ref="char:EOLhyphen"/>nings of his face, and that will be better than the life of a Mother.</p>
+               <p>The Lord carry my Daughter <hi>Shayter</hi> (who was then near her time) through her great work, and bleſs thee my Son, and make my Daughter a bleſſing to thee; and the Lord bleſs the little one, and make it an Heir of Heaven, one of Chriſts Lambs. I leave my bleſſing and prayers for the little ones and you all. One of her Grandchildren coming to her, ſhe ſaid to him, Farwell my Lamb, my dear Lamb, farwell, farwell, the Lord make thee a comfort to thy Mother. And one of her Daughters being near her, ſhe prayed, the Lord bleſs thee out of <hi>Sion,</hi> and give thee an everlaſting Covenant-intereſt in himſelf, <hi>&amp;c.</hi>
+               </p>
+               <p>She prayed for Gods Miniſters, That he would ſpare their lives, incourage them, and bleſs their labours, <hi>&amp;c.</hi> More particularly for Dr. <hi>Jacomb,</hi> That God would bleſs him and his miniſtry, and recompence all the good he had done her; ſhe much deſired to ſee him once again, who coming to her, and praying with her, his praiers and preſence were very refreſhing to her.</p>
+               <p>Towards her end, ſhe grew ſomewhat light-headed, but ſtill had excellent ex<g ref="char:EOLhyphen"/>preſſions, and ſpake ſenſibly of God, and the things of God; ſhe often cryed. O my God, O my God pity me. O my God help me, for thy mercies and compaſſi<g ref="char:EOLhyphen"/>ous ſake. <hi>Remember me, O my God, how long yet? O my God, have mercy on me,</hi> &amp;c.</p>
+               <p>The day of my redemption draws nigh, and I am now near home, my God help me, help faith, <hi>&amp;c.</hi> The fear of death is taken away, bleſſed be God, and the Lord
+<pb n="32" facs="tcp:37223:18"/>does comfort me, and I am comforted within, and am glad I am going home, <hi>&amp;c.</hi> She ſpake a great deal more, but we could not now well underſtand what ſhe ſaid. Now <hi>the doors began to be ſhut in the ſtreets,</hi> as <hi>Solomon</hi> ſpeaks (how good is it to open them to purpoſe whiles we may) and <hi>the daughters of muſick to be brought low, and thoſe that look out of the windows to be darkned,</hi> becauſe ſhe was near to her <hi>long home;</hi> but bleſſed be God not an everlaſting home. <hi>December</hi> 13. ſhe was under great pains, and groan'd much, and ſpake little, neither could what ſhe ſpake be underſtood; but ſhe often fixed her eyes ſtedfaſtly towards Heaven, for ſome time together: Afterward, going to prayer by her, and begging of God (if he ſaw it good) to releaſe her, <hi>&amp;c.</hi> ſhe lift up her eyes and one of her hands toward Heaven, and the other hand, being in one of her Daughters hands, ſhe pluck'd it out, and lift up that alſo, both eyes and hands with great earneſtneſs and intenſeneſs unto Heaven, where her ſoul was now near entring. I was with her that night till about twelve or one of the Clock, and not knowing how to bear it, to ſtay with her any longer, I then went (with a ſad heart) away from her, not expecting to ſee her here any more alive; but bleſſed be God. I enjoyed her ſo long, ſo truly pious, prudent, loving, tender, careful, ſaithful, and dearly affectionate Wife; but though I departed from her, I left her with him, whoſe Angels were now waiting, ready to tranſport her ſoul into the boſom of her bleſſed Redeemer. But one of her Daughters remained ſtill with her to the laſt, which was not long after I was gone away; her Daughter could not get her ſpirit willing at firſt to promiſe to bleſs God, if he would take her to himſelf; But when God had once brought her to be willing, ſhe ſoon after, about two a Clock in the morning, <hi>December</hi> 14, 1678, expired, and went triumphingly to Heaven, <hi>an entrance being miniſtred to her abundantly into the everlaſting kingdom of her dear Lord and Saviour Jeſus Chriſt.</hi> And thus ſhe is now <hi>entred into peace, and is taken away,</hi> and ſecured <hi>from the evil to come;</hi> ſhe is paſſed from earth to Heaven: and is <hi>departed out of this world to the father.</hi> She has left theſe bottoms of death, and this low valley of miſery and tears, and is now gotten to thoſe regions of joy and triumph, to thoſe <hi>mountains of myrrhe, and hills of frankincenſe, thoſe moun<g ref="char:EOLhyphen"/>tains of ſpices,</hi> or ſweetneſſes, which are cloathed with everlaſting joys and de<g ref="char:EOLhyphen"/>lights, and on whoſe wealthy brows, nothing ever ſprings but life and glory: and where never any clouds or ſtorms do once ever ariſe, interpoſe, or interrupt; where, like a thirſty Roe, or Hart, ſhe was ſtill aſpiring, and panting to be and where now ſhe is got, and where we leave her, even there where is nothing but <hi>reſt,</hi> and <hi>light,</hi> and <hi>love,</hi> and <hi>delights,</hi> and fulneſs of joys, and crowns of life, and glory, perfect <hi>peace,</hi> and <hi>pleaſures</hi> for evermore, incenſe, praiſes and hallelu<g ref="char:EOLhyphen"/>jahs, <hi>to him that ſits upon the throne, and to the Lamb for ever and ever,</hi> Amen.</p>
+               <epigraph>
+                  <q>
+                     <hi>And I heard a voice from heaven, ſaying unto me, Write, bleſſed are the dead which dye in the Lord, from henceforth; yea, ſaith the Spirit, that they may reſt from their labours and their works do follow them,</hi> 
+                     <bibl>Rev. 14.13.</bibl>
+                  </q>
+                  <q>
+                     <pb n="33" facs="tcp:37223:18"/>
+                     <hi>Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, ſhe ſhall be praiſed,</hi> 
+                     <bibl>Prov. 31.30.</bibl>
+                  </q>
+                  <q>
+                     <hi>Give her of the fruit of her hands, and let her own works praiſe her in the gates,</hi> 
+                     <bibl>Prov. 31.31.</bibl>
+                  </q>
+                  <q>
+                     <lg>
+                        <l>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</l>
+                        <l>
+                           <hi>Pro, Roſis deciduis, coronam immareſcibilem.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Death puf'd this light, and its earths baniſh'd flame</l>
+                        <l>Flew up to Heaven, and as a Sun became.</l>
+                     </lg>
+                  </q>
+               </epigraph>
+               <closer>Soli Deo gloria in eternum.</closer>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="34" facs="tcp:37223:19"/>
+            <head>Some Breathings upon the Deceaſe of Mrs. <hi>Luce Perrot, December</hi> 14, 1678.</head>
+            <lg>
+               <l>O What a change hath this bleſs'd morning made</l>
+               <l>To thee bleſs'd ſoul, who now haſt paſt deaths ſhade</l>
+               <l>Now no more ſorrows, pains, nor doleful cries,</l>
+               <l>But all tears quite are wiped from thine eyes.</l>
+               <l>How much afflicted in this vale of Tears!</l>
+               <l>But how refreſhed now above the Sphears!</l>
+               <l>Thy way unto thy Fathers Houſe was rough:</l>
+               <l>But now thou haſt got thither, 'tis enough.</l>
+               <l>Thy ſtormy paſſage, now thou art arriv'd</l>
+               <l>At Heavens bleſs'd Haven, makes but more reviv'd.</l>
+               <l>Thy pains and ails with which thou waſt ſo preſt,</l>
+               <l>Do now, but ſo much more, ſweeten thy reſt:</l>
+               <l>And though ſome months, yea years they did extend,</l>
+               <l>One moment now in Heaven doth make amends.</l>
+               <l>And now that thou haſt gotten to thy Lot</l>
+               <l>Of bliſs aſſign'd thee, they are all forgot:</l>
+               <l>Thy pains, thy conflicts, combats here were many;</l>
+               <l>But now thou know'ſt not what belongs to any:</l>
+               <l>But of thy ſorrows all thou haſt releaſe,</l>
+               <l>And now, thy Soul is fill'd with bliſsful peace.</l>
+               <l>In bottoms here of death thou did'ſt reſide,</l>
+               <l>But now the Spicy Mountains thee abide.</l>
+               <l>Thus every way, thy change is for the beſt;</l>
+               <l>For Grace 'tis Glory, and for Labour Reſt:</l>
+               <l>Thy ſins now paſt, and all thy ſorrows gone,</l>
+               <l>And nevermore thou ſhalt experience one.</l>
+               <l>
+                  <pb n="35" facs="tcp:37223:19"/>Thy faith and patience now are at an end,</l>
+               <l>Which though long exercis'd, did ſtill exten</l>
+               <l>Faith now is turn'd into fruition;</l>
+               <l>Into poſſeſſion, expectation,</l>
+               <l>Thy Cabinet's diſſolv'd, thy Jewel's gone</l>
+               <l>To Heaven, and there made up a glorious one.</l>
+               <l>Thy earthly houſe is fall'n, that down doth lye,</l>
+               <l>But thy Soul's mounted far above the Sky</l>
+               <l>To th'higheſt Heaven, where true felicity</l>
+               <l>And Glory do it cloath eternally.</l>
+               <l>Thou long ſince weaned waſt from all things here;</l>
+               <l>And now th' haſt got where thy delights ſtill were,</l>
+               <l>Thy earneſt pantings, longings for to be</l>
+               <l>With Chriſt, now fully ſatisfied hath he.</l>
+               <l>Sabbaths below how greatly did'ſt thou love!</l>
+               <l>And one eternal now thou keep'ſt above.</l>
+               <l>Thou feard'ſt not Death, that Meſſenger ſo grim,</l>
+               <l>But ſaidſt, I can (I bleſs God) ſmile on him:</l>
+               <l>Yea, though ſo grim, ſweet Meſſenger didſt call,</l>
+               <l>And ſaidſt, if come, thou'dſt welcome him withal;</l>
+               <l>And being ſo far onward in thy way,</l>
+               <l>How troubled waſt to hear of further ſtay!</l>
+               <l>Is this, ſaidſt thou, the night I muſt depart?</l>
+               <l>Oh! with what joy would ſuch news fill my heart!</l>
+               <l>
+                  <hi>Lord Jeſus come, come Lord, come ſpeedily,</hi>
+               </l>
+               <l>
+                  <hi>Make haſt, make haſt,</hi> How oft was this thy cry?</l>
+               <l>And when wilt come, my God? oh haſten thee,</l>
+               <l>And Charets of <hi>Aminidab</hi> like be:</l>
+               <l>Of Death I am no more afraid at all,</l>
+               <l>Than for to take the choiceſt Cordial</l>
+               <l>Which is to do me good: and Death doth ſo;</l>
+               <l>For through it, and beyond it look I do.</l>
+               <l>And of my Burial-cloaths more joyfully</l>
+               <l>Than of my Wedding-cloaths, diſcourſe can I.</l>
+               <l>
+                  <pb n="36" facs="tcp:37223:20"/>My Burial-cloaths! My Wedding-cloaths they are,</l>
+               <l>And now my bleſſed Bridegroom is not far.</l>
+               <l>Farwel vain world, for ſo I judg'd of thee,</l>
+               <l>And never other found thee for to be;</l>
+               <l>And that which others ſo much doted on,</l>
+               <l>As poor and pitiful I look'd upon.</l>
+               <l>My joys, delights, were higher, fix'd above</l>
+               <l>On God, on Chriſt, on's Word, and on his Love;</l>
+               <l>His Ways, his Ordinances, where, to be</l>
+               <l>One day, than Thouſands better was to me.</l>
+               <l>Oh! how dejected have I thither gone?</l>
+               <l>But how refreſhed have returned home?</l>
+               <l>Bleſs'd Soul to thee, Chriſt was to live, the main:</l>
+               <l>And Death it ſelf is now become thy gain.</l>
+               <l>Here he upheld thee in integrity,</l>
+               <l>Now ſets before his face eternally.</l>
+               <l>Here with his counſels guided thou would'ſt be,</l>
+               <l>And thee to Glory now receiv'd hath he:</l>
+               <l>And though thy body left behind is here,</l>
+               <l>Tis but to ſow; and when Chriſt ſhall appear,</l>
+               <l>Glorious ſhall riſe, and joyn'd unto again</l>
+               <l>Thy Soul, thou ever with him ſhalt remain;</l>
+               <l>And in thy fleſh, then for thy ſelf ſhallt ſee</l>
+               <l>God, and thine eyes behold eternally.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>THE EPITAPH.</head>
+            <lg>
+               <l>
+                  <hi>THE Body here of her interr'd doth lye,</hi>
+               </l>
+               <l>
+                  <hi>Who was a pattern of true piety;</hi>
+               </l>
+               <l>
+                  <hi>Submiſſive, humble, meek and patient;</hi>
+               </l>
+               <l>
+                  <hi>Grace and ſweet nature in her eminent;</hi>
+               </l>
+               <l>
+                  <hi>A loving, faithful, careful Wiſe; alſo</hi>
+               </l>
+               <l>
+                  <hi>A Mother ſuch her Children dear unto.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37223:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
